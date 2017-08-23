@@ -1,0 +1,13 @@
+
+public class Date {
+String day, month;
+Integer date, year;
+
+day = "Wednesday";
+month = "August";
+date = 16;
+year = 2017;
+
+
+
+}

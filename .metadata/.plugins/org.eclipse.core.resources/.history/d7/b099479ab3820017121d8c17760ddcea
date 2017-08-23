@@ -1,0 +1,27 @@
+
+public class Date {
+String day, month;
+Integer date, year;
+	{
+		day = "Wednesday";
+		month = "August";
+		date = 16;
+		year = 2017;
+		
+		FirstGoal();
+		
+		//String output = System.out.println(day, date.toString(), month, year.toString());
+		//String firstLine = System.out.println(day);
+		//String secondLine = System
+		//public void InitialOutput(String [] args) {
+		
+		
+
+}
+	public void FirstGoal(){
+	//System.out.println(day);
+	System.out.println(date);
+	//System.out.println(month);
+	//System.out.println(year);
+	}
+}
