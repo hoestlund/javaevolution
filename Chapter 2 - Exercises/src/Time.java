@@ -9,8 +9,9 @@ public class Time {
 	Integer second, minute, hour;
 	
 	{
-		second = 47;
-		minute = 33;
+		//hard coded the time to test everything
+		second = 30;
+		minute = 25;
 		hour = 22;
 		
 		
@@ -23,10 +24,17 @@ public class Time {
 	System.out.println("Current time is:" + hour + ":" + minute + ":" + second );
 	Integer minuteToSecond = minute*60;
 	Integer hourToSecond = hour*60*60;
+	Double secondsInDay = 60*60*24.0;
 	
 	Integer totalSeconds = hourToSecond + minuteToSecond + second;
 	
 	System.out.println(totalSeconds);
+	System.out.println("");
+	System.out.println("This is the percetge of time passed today: ");
+	
+	Double percentageDay = (totalSeconds/secondsInDay) * 100;
+	Double percentageToDisplay = (double)Math.round(percentageDay * 1000d) /1000d;
+	System.out.println(percentageToDisplay + "%");
 	}
 	
 //	public void SecondsSinceMidnight() {
