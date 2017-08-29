@@ -11,7 +11,4 @@ public class Exercise3_3 {
 		
 	}
 	
-	public static void lool() {
-		zool(11, "Mr Fluffy", "Baker St.");
-	}
 }
