@@ -1,9 +1,0 @@
-
-public class HelloWorld {
-
-	public static void main(String[] args) {
-		// 13.08.17 My first program in Java! Oskar Enmalm
-System.out.println("Hello world!");
-	}
-
-}

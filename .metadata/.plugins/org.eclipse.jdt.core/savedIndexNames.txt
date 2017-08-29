@@ -1,5 +1,0 @@
-INDEX VERSION 1.130+/Users/oskarenmalm/BSC/java/.metadata/.plugins/org.eclipse.jdt.core
-755435284.index
-2500356922.index
-3107836756.index
-3927879410.index

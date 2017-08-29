@@ -1,8 +1,0 @@
-
-public class Name {
-String name = "Oskar";
-int count = 0;
-while(count<4)
-	System.out.println(name);
-	count++;
-}
