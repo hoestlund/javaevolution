@@ -7,9 +7,9 @@ public class Main {
 		//Song.BeerBottles();
 		//Read up about assessing methods in a static way,  
 		//https://stackoverflow.com/questions/13537443/java-accessing-static-method-properly
-		BottlesOfBeerOnTheWall.BeerBottles();
+		//BottlesOfBeerOnTheWall.BeerBottles();
 		
-		
+		MethodsForGraphics test = new MethodsForGraphics();
 		
 		
 		
