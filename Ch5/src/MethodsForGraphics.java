@@ -6,9 +6,11 @@ import element.*;
 public class MethodsForGraphics {
 	
 	public static void main(String[] args) {
-		one();
-		two();
-		three();
+		//one();
+		//two();
+		//three();
+		//weirdSquare();
+		cube2();
 	}
 
 	private static void one() {
@@ -30,6 +32,72 @@ public class MethodsForGraphics {
 		d.moveTo(x2+100, y2+100);
 		d.lineTo(x3+100, y3 +100);
 	}
+	
+//	//private static void weirdSquare() {
+	//This didn't really work and pretty unreadable
+//		DrawingWindow d = new DrawingWindow(600, 600);
+//		//starting at the bottom corner of first layer
+//		int xLeft=50, xRight=450, yBottom=450, yTop=50;
+//		d.moveTo(xLeft,yTop);
+//		d.lineTo(xRight,yTop);
+//		d.lineTo(xRight,yBottom);
+//		d.lineTo(xLeft,yBottom);
+//		//completing first layer square
+//		d.lineTo(xLeft,yTop);
+//		
+//		//shifting by 50 to start next square
+//		d.lineTo(xLeft+50,yTop+50);
+//		d.lineTo(xRight+50,yTop+50);
+//		d.lineTo(xRight+50,yBottom-50);
+//		d.lineTo(xLeft+50,yBottom-50);
+//		
+//		//three last lines to connect between the two squares
+//		d.moveTo(xLeft,yBottom);
+//		d.lineTo(xLeft+50,yBottom-50);
+//		
+//		d.moveTo(xRight,yBottom);
+//		d.lineTo(xRight+50,yBottom-50);
+//		
+//		d.moveTo(xRight,yTop);
+//		d.lineTo(xRight+50,yTop+50);
+//	}
+	
+	private static void cube2() {
+		DrawingWindow d = new DrawingWindow(500,500);
+		//backsquare
+		d.moveTo(200,100); //topLeft
+		d.lineTo(400,100);//topRight
+		d.lineTo(400,300);
+		d.lineTo(200,300);
+		d.lineTo(200,100);//completing first square
+		
+		//frontalSquare
+		d.moveTo(100,200);
+		d.lineTo(300,200);
+		d.lineTo(300,400);
+		d.lineTo(100,400);
+		d.lineTo(100,200);//completing frontal square
+		
+		
+		d.lineTo(200,100); //joining the top left
+		
+		//joining top right
+		d.moveTo(300,200);
+		d.lineTo(400,100);
+		
+		//joining bottom right
+		d.moveTo(300,400);
+		d.lineTo(400,300);
+		
+		//joining bottom left
+		d.moveTo(100,400);
+		d.lineTo(200,300);
+		
+		
+		
+	}
+	
+	
 	
 
 }
