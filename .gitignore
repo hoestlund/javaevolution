@@ -1,3 +1,7 @@
 /.metadata/
 /.recommenders/
 /.settings/
+*.iml
+*.xml
+*.html
+*.prefs
