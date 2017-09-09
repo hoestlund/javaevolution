@@ -7,5 +7,14 @@ public class Exercises {
 		else return true;
 		
 	}
+	
+	public static double multiAdd(double a, double b, double c) {
+		return a*b + c;
+	}
+	
+	public static double yikes(double x) {
+		return Exercises.multiAdd(x, Math.exp(-x), Math.sqrt(1-Math.exp(-x)));
+	}
+	
 
 }
