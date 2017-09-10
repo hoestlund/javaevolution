@@ -17,6 +17,7 @@ public class Main {
 		//Exercises.printBackwards("oskar");
 		//Exercises.oldSchoolReverse("this is the longer one");
 		//System.out.println(Exercises.power(4, 2));
+		//System.out.print(Exercises.ecd(12, 8));
 	}
 
 }

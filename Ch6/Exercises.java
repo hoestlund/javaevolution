@@ -99,6 +99,20 @@ public class Exercises {
 		
 	}
 	
+	//Euclid’s Algorithm
+	//Will work through the algorithm until r is equal to 0
+	//It will then return the largest common divisor
+	public static int ecd(int a, int b) {
+		
+		int r = a%b;
+		while(r != 0) {
+			b = r;
+			r = b%r;
+		}
+		return b;
+		
+	}
+	
 }//end of class
 
 
