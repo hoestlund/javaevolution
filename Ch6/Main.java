@@ -11,7 +11,11 @@ public class Main {
 //		System.out.println(Exercises.multiAdd(Math.log(10), 1.0, Math.log(20)));
 //		System.out.println(Exercises.yikes(2));
 		
-		System.out.println(Exercises.ackermann(1, 1));
+		//System.out.println(Exercises.ackermann(1, 1));
+		//Exercises.stringMethods("testing methods");
+		//Exercises.printString("this is me shouting down a line".toUpperCase());
+		//Exercises.printBackwards("oskar");
+		Exercises.oldSchoolReverse("this is the longer one");
 	}
 
 }
