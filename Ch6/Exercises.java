@@ -82,6 +82,23 @@ public class Exercises {
 		}
 	}
 	
+	public static double power (double x, int n) {
+		if(n==0) {
+			return 1.0;
+		}
+		
+		//Checking if even and doing the calculation like so is more efficient
+		else if(n%2==0) {
+			n = n/2;
+			return Math.pow(Math.pow(x, n), 2);
+		} 
+		
+		else {
+			return Math.pow(x,n);
+		}
+		
+	}
+	
 }//end of class
 
 

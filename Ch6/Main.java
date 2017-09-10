@@ -15,7 +15,8 @@ public class Main {
 		//Exercises.stringMethods("testing methods");
 		//Exercises.printString("this is me shouting down a line".toUpperCase());
 		//Exercises.printBackwards("oskar");
-		Exercises.oldSchoolReverse("this is the longer one");
+		//Exercises.oldSchoolReverse("this is the longer one");
+		//System.out.println(Exercises.power(4, 2));
 	}
 
 }
