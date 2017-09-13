@@ -13,4 +13,27 @@ public class Maths {
 
         return x;
     }
+
+
+
+    //Multiple table - complete the generalized table on p85; printMultiples, Pr
+
+    public static void printMultTable(int i){
+        for(int line = 1; line<=i;line++){//want to send j with value 1 for first loop
+            printMultiples(i,line);
+        }
+
+    }
+
+    //think about how the amount of multiples printed mathches up to the line position
+    //maybe think if the initilization are correct and if so many parameters are needed
+
+    private static void printMultiples(int i, int line){ //declared as private as it should only be used within the class
+        System.out.println(line*i + "\t"); //was thinking about having this here as the table always has minimum of one collumn
+
+        while(line<i){ //need a loop - for? which prints every extra multiple up to the line number
+            line++;
+            System.outprint(multipleValue + "\t");
+        }
+    }
 }
