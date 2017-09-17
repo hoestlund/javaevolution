@@ -2,7 +2,7 @@ public class Exercises {
     //This chapter mainly looks at classes that are used to help manipulate strings
     //indexOf is the inverse of charAt
 
-    public static void reverse(String s){
+  /*  public static void reverse(String s){
         String backString = new StringBuffer(s).reverse().toString();
         System.out.println(backString);
     }
@@ -22,12 +22,12 @@ public class Exercises {
             //a recursive function where if checks if the start is the last character of the word (printing the count of occurances)
             //the else part would contain the snippet I have already written, organized slightly differently
 
-           /* for ( int timesAppeared = 0; startSearchAt<=s.length(); count ++){
+           *//* for ( int timesAppeared = 0; startSearchAt<=s.length(); count ++){
                if (s.charAt(startSearchAt) == l){
                     timesAppeared++;
                 }
                 startSearchAt = s.indexOf(l,startSearchAt) + 1; //This will gradually move the start position automatically towards the end
-                System.out.println("This ran");*/
+                System.out.println("This ran");*//*
             if(startSearchAt<index){
                 
             }
@@ -36,9 +36,11 @@ public class Exercises {
             }
 
             System.out.println(timesAppeared);
-        }
-
+        }*/
+    public static void test(){
+        System.out.println("Yes, this is working");
+    }
 
     }
 
-}
+

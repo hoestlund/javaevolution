@@ -4,8 +4,9 @@ public class Main {
 
         //®Exercises.reverse("This is a string backwards");
         //8.2 is not a coding exercise
-        Exercises.countLetters("helen", 'e');
-
+        //Exercises.countLetters("helen", 'e');
+        System.out.println("Is this working?");
+        Exercises.test();
 
 
 
