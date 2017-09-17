@@ -15,16 +15,24 @@ public class Exercises {
         }
 
         else{
-            //int length = s.length() - 1; //This is taken to put an upper limit to the loop
+            int index = s.length() - 1; //This is taken to put an upper limit to the loop
             int startSearchAt = 0; //This will be the second argument for the index at
             int timesAppeared = 0;
 
-            for ( int timesAppeared = 0; startSearchAt<=s.length(); count ++){
-                /*if (s.charAt(startSearchAt) == l){
-                    timesAppeared++;*/
+            //a recursive function where if checks if the start is the last character of the word (printing the count of occurances)
+            //the else part would contain the snippet I have already written, organized slightly differently
+
+           /* for ( int timesAppeared = 0; startSearchAt<=s.length(); count ++){
+               if (s.charAt(startSearchAt) == l){
+                    timesAppeared++;
                 }
                 startSearchAt = s.indexOf(l,startSearchAt) + 1; //This will gradually move the start position automatically towards the end
-                System.out.println("This ran");
+                System.out.println("This ran");*/
+            if(startSearchAt<index){
+                
+            }
+
+
             }
 
             System.out.println(timesAppeared);
