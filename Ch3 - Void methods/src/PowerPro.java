@@ -10,33 +10,33 @@
 import java.util.Scanner;
 
 public class PowerPro {
-	Scanner Reader = new Scanner(System.in);
-	//Integer test;
-	
-	public void UserInterface() {
-		System.out.print("Enter the base number: ");
-		Double base = findDouble();
-		System.out.print("Enter the exponent: ");
-		Double exponent = findDouble();
-		
-		Double result = Math.pow(base, exponent);
-		System.out.println("Here is the result: " + result);
-		
-			
-	}
-	
+    Scanner Reader = new Scanner(System.in);
+    //Integer test;
+
+    public void UserInterface() {
+        System.out.print("Enter the base number: ");
+        Double base = findDouble();
+        System.out.print("Enter the exponent: ");
+        Double exponent = findDouble();
+
+        Double result = Math.pow(base, exponent);
+        System.out.println("Here is the result: " + result);
+
+
+    }
+
 //	public Integer findBase() {
 //		String baseString = Reader.nextLine();
 //		Integer b = Integer.parseInt(baseString);
 //		return b;
 //	}
-	
-	public Double findDouble() {
-		String startDouble = Reader.next();
-		Double d = Double.parseDouble(startDouble);
-		return d;
-	} 
-	
+
+    public Double findDouble() {
+        String startDouble = Reader.next();
+        Double d = Double.parseDouble(startDouble);
+        return d;
+    }
+
 //	public Boolean isInteger() {
 //		 if (test == (int)test) {
 //			 return true;

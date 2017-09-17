@@ -9,10 +9,8 @@ public class Main {
         Exercises.test();
 
 
+    }//End of main method
 
-
-        }//End of main method
-
-    }//End of class
+}//End of class
 
 

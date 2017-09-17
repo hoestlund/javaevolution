@@ -6,129 +6,128 @@ import element.*;
 
 
 public class SpaceInvader {
-	
-	
-	
-	public static void main(String[] args) {
-		DrawingWindow d = new DrawingWindow(200,200);
-		
-		d.moveTo(00,130);
-		d.lineTo(00,160);
-		d.lineTo(10,160);
-		d.lineTo(10,170);
-		d.lineTo(20,170);
-		d.lineTo(20,180);
-		d.lineTo(30,180);
-		d.lineTo(30,190);
-		d.lineTo(40,190);
-		d.lineTo(40,180);
-		d.lineTo(70,180);
-		d.lineTo(70,190);
-		d.lineTo(80,190);
-		d.lineTo(80,180);
-		d.lineTo(90,180);
-		d.lineTo(90,170);
-		d.lineTo(100,170);
-		d.lineTo(100,160);
-		d.lineTo(110,160);
-		d.lineTo(110,130);
-		d.lineTo(100,130);
-		d.lineTo(100,150);
-		d.lineTo(90,150);
-		d.lineTo(90,130);
-		d.lineTo(80,130);
-		d.lineTo(80,140);
-		d.lineTo(30,140);
-		d.lineTo(30,130);
-		d.lineTo(20,130);
-		d.lineTo(20,150);
-		d.lineTo(10,150);
-		d.lineTo(10,130);
-		d.lineTo(00,130);
 
-		//line 2
-		d.moveTo(30,120);
-		d.lineTo(30,130);
-		d.lineTo(50,130);
-		d.lineTo(50,120);
-		d.lineTo(30,120); 
 
-		//line 3
-		d.moveTo(20,200);
-		d.lineTo(30,200);
-		d.lineTo(30,190);
-		d.lineTo(20,190);
-		d.lineTo(20,200); 
+    public static void main(String[] args) {
+        DrawingWindow d = new DrawingWindow(200, 200);
 
-		//line 4
-		d.moveTo(40,80);
-		d.lineTo(40,70);
-		d.lineTo(60,70);
-		d.lineTo(60,60);
-		d.lineTo(40,60);
-		d.lineTo(40,50);
-		d.lineTo(50,50);
-		d.lineTo(50,90);
-		d.lineTo(60,90);
-		d.lineTo(60,80);
-		d.lineTo(40,80); 
+        d.moveTo(00, 130);
+        d.lineTo(00, 160);
+        d.lineTo(10, 160);
+        d.lineTo(10, 170);
+        d.lineTo(20, 170);
+        d.lineTo(20, 180);
+        d.lineTo(30, 180);
+        d.lineTo(30, 190);
+        d.lineTo(40, 190);
+        d.lineTo(40, 180);
+        d.lineTo(70, 180);
+        d.lineTo(70, 190);
+        d.lineTo(80, 190);
+        d.lineTo(80, 180);
+        d.lineTo(90, 180);
+        d.lineTo(90, 170);
+        d.lineTo(100, 170);
+        d.lineTo(100, 160);
+        d.lineTo(110, 160);
+        d.lineTo(110, 130);
+        d.lineTo(100, 130);
+        d.lineTo(100, 150);
+        d.lineTo(90, 150);
+        d.lineTo(90, 130);
+        d.lineTo(80, 130);
+        d.lineTo(80, 140);
+        d.lineTo(30, 140);
+        d.lineTo(30, 130);
+        d.lineTo(20, 130);
+        d.lineTo(20, 150);
+        d.lineTo(10, 150);
+        d.lineTo(10, 130);
+        d.lineTo(00, 130);
 
-		//line 5
-		d.moveTo(130,120);
-		d.lineTo(140,120);
-		d.lineTo(140,90);
-		d.lineTo(130,90);
-		d.lineTo(130,120); 
+        //line 2
+        d.moveTo(30, 120);
+        d.lineTo(30, 130);
+        d.lineTo(50, 130);
+        d.lineTo(50, 120);
+        d.lineTo(30, 120);
 
-		//line 6
-		d.moveTo(80,200);
-		d.lineTo(80,190);
-		d.lineTo(90,190);
-		d.lineTo(90,200);
-		d.lineTo(80,200); 
+        //line 3
+        d.moveTo(20, 200);
+        d.lineTo(30, 200);
+        d.lineTo(30, 190);
+        d.lineTo(20, 190);
+        d.lineTo(20, 200);
 
-		//line 7
-		d.moveTo(190,00);
-		d.lineTo(80,00);
-		d.lineTo(80,20);
-		d.lineTo(90,20);
-		d.lineTo(90,30);
-		d.lineTo(120,30);
-		d.lineTo(120,40);
-		d.lineTo(130,40);
-		d.lineTo(130,50);
-		d.lineTo(140,50);
-		d.lineTo(140,40);
-		d.lineTo(150,40);
-		d.lineTo(150,30);
-		d.lineTo(180,30);
-		d.lineTo(180,20);
-		d.lineTo(190,20);
-		d.lineTo(190,00); 
+        //line 4
+        d.moveTo(40, 80);
+        d.lineTo(40, 70);
+        d.lineTo(60, 70);
+        d.lineTo(60, 60);
+        d.lineTo(40, 60);
+        d.lineTo(40, 50);
+        d.lineTo(50, 50);
+        d.lineTo(50, 90);
+        d.lineTo(60, 90);
+        d.lineTo(60, 80);
+        d.lineTo(40, 80);
 
-		//line 8
-		d.moveTo(60,130);
-		d.lineTo(80,130);
-		d.lineTo(80,120);
-		d.lineTo(60,120);
-		d.lineTo(60,130); 
+        //line 5
+        d.moveTo(130, 120);
+        d.lineTo(140, 120);
+        d.lineTo(140, 90);
+        d.lineTo(130, 90);
+        d.lineTo(130, 120);
 
-		//line 9
-		d.moveTo(70,170);
-		d.lineTo(70,160);
-		d.lineTo(80,160);
-		d.lineTo(80,170);
-		d.lineTo(70,170);
+        //line 6
+        d.moveTo(80, 200);
+        d.lineTo(80, 190);
+        d.lineTo(90, 190);
+        d.lineTo(90, 200);
+        d.lineTo(80, 200);
 
-		//line 10
-		d.moveTo(30,170);
-		d.lineTo(30,160);
-		d.lineTo(40,160);
-		d.lineTo(40,170);
-		d.lineTo(30,170);
+        //line 7
+        d.moveTo(190, 00);
+        d.lineTo(80, 00);
+        d.lineTo(80, 20);
+        d.lineTo(90, 20);
+        d.lineTo(90, 30);
+        d.lineTo(120, 30);
+        d.lineTo(120, 40);
+        d.lineTo(130, 40);
+        d.lineTo(130, 50);
+        d.lineTo(140, 50);
+        d.lineTo(140, 40);
+        d.lineTo(150, 40);
+        d.lineTo(150, 30);
+        d.lineTo(180, 30);
+        d.lineTo(180, 20);
+        d.lineTo(190, 20);
+        d.lineTo(190, 00);
 
-	
-}//end of main
+        //line 8
+        d.moveTo(60, 130);
+        d.lineTo(80, 130);
+        d.lineTo(80, 120);
+        d.lineTo(60, 120);
+        d.lineTo(60, 130);
+
+        //line 9
+        d.moveTo(70, 170);
+        d.lineTo(70, 160);
+        d.lineTo(80, 160);
+        d.lineTo(80, 170);
+        d.lineTo(70, 170);
+
+        //line 10
+        d.moveTo(30, 170);
+        d.lineTo(30, 160);
+        d.lineTo(40, 160);
+        d.lineTo(40, 170);
+        d.lineTo(30, 170);
+
+
+    }//end of main
 }//end of SpaceInvader
 
 
