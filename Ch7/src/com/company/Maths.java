@@ -20,7 +20,7 @@ public class Maths {
 
     public static void printMultTable(int i){
         for(int line = 1; line<=i;line++){//want to send j with value 1 for first loop
-            printMultiples(i,line);
+            printMultiples(line);
         }
 
     }
@@ -28,12 +28,13 @@ public class Maths {
     //think about how the amount of multiples printed mathches up to the line position
     //maybe think if the initilization are correct and if so many parameters are needed
 
-    private static void printMultiples(int i, int line){ //declared as private as it should only be used within the class
-        System.out.println(line*i + "\t"); //was thinking about having this here as the table always has minimum of one collumn
+    private static void printMultiples(int line){ //declared as private as it should only be used within the class
+        int j = 1;
+        System.out.println(line*j + "\t"); //was thinking about having this here as the table always has minimum of one collumn, need to make one line
 
-        while(line<i){ //need a loop - for? which prints every extra multiple up to the line number
-            line++;
-            System.outprint(multipleValue + "\t");
+        while(j<=line){ //need a loop - for? which prints every extra multiple up to the line number
+            System.out.print(line*j + "\t");
+            j++;r
         }
     }
 }
