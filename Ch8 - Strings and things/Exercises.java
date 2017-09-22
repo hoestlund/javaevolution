@@ -2,45 +2,51 @@ public class Exercises {
     //This chapter mainly looks at classes that are used to help manipulate strings
     //indexOf is the inverse of charAt
 
-    /*  public static void reverse(String s){
+      public static void reverse(String s){
           String backString = new StringBuffer(s).reverse().toString();
           System.out.println(backString);
       }
 
-      public static void countLetters(String s, char l){
-          //String fruit = "banana";
+    //Example from textbook but generalized to accept string and char arguments
+    //Challenge is to use index instead and also accepting char as argument
+    public static void checkA(String word, char letter){
 
-          if (s.indexOf(l) == -1){
-              System.out.println("That letter does no exist in the string, try another");
-          }
-
-          else{
-              int index = s.length() - 1; //This is taken to put an upper limit to the loop
-              int startSearchAt = 0; //This will be the second argument for the index at
-              int timesAppeared = 0;
-
-              //a recursive function where if checks if the start is the last character of the word (printing the count of occurances)
-              //the else part would contain the snippet I have already written, organized slightly differently
-
-             *//* for ( int timesAppeared = 0; startSearchAt<=s.length(); count ++){
-               if (s.charAt(startSearchAt) == l){
-                    timesAppeared++;
-                }
-                startSearchAt = s.indexOf(l,startSearchAt) + 1; //This will gradually move the start position automatically towards the end
-                System.out.println("This ran");*//*
-            if(startSearchAt<index){
-                
+        int length = word.length();
+        int count = 0;
+        int index = 0;
+        while (index < length) {
+            if (word.charAt(index) == letter) { count = count + 1;
             }
-
-
-            }
-
-            System.out.println(timesAppeared);
-        }*/
-    public static void test() {
-        System.out.println("Yes, this is working");
+            index = index + 1;
+        }
+        System.out.println(count);
     }
 
-}
+
+    //indexOf takes a character and finds the index where that character appears.
+    //indexOf fails if the character does not appear in the string, and returns the value -1.
+    //
+
+    public static void countLetters(String word, char letter){
+
+        int length = word.length();
+        int count = 0;
+        int index = 0;
+        while (index < length) {
+
+            if (word.indexOf(letter, index) != -1) {
+                count = count +1;
+                index = word.indexOf(letter, index) +1;
+            }
+
+        }
+        System.out.println(count);
+    }
+
+
+
+        }//end of class
+
+
 
 
