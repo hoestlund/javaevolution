@@ -26,6 +26,20 @@ public class HelloWorld {
         System.out.println(name + name);
 
         Name.main(args);
+
+        //We have a snail that needs to get to Proxima centauri and back
+
+        public static void snailToStar{
+            double secondsInYear = 365*24*60*60;
+            double speedOfLight = 299792458;
+            double totalMeters = 8.4 * secondsInYear * speedOfLight;
+            double snailSpeedMS = 0.42/60*60; //snail travels 42 cm an hour
+
+            double secondsTaken = totalMeters/snailSpeed; //time in seconds
+            double yearsTaken = secondsTaken/secondsInYear;
+
+            System.out.println("The snail spent " + yearsTaken + " years to go to Centaurai and back");
+        }
     }
 
 }
