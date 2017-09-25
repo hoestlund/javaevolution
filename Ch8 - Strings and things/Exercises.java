@@ -43,6 +43,35 @@ public class Exercises {
         System.out.println(count);
     }
 
+    public static void test(){
+        char c = 'z';
+        String s = "Cheeseburger";
+        int number = 525600;
+        boolean b = true;
+
+        System.out.println(s + c); //Adding a char to a string concatenates the result
+        //System.out.println(s - c); //You cannot minus a char
+        System.out.println(s + b); //You can add a bool to a string(it just doesn't automatically resolve as true)
+        System.out.println(s + number); //You can add an int, it concatenates
+        //System.out.println(b + number); //bool and int don't go together
+        //System.out.println(b + c); //bool and char don't go together
+
+
+    }
+    /*Here’s a puzzler: normally, the statement x++ is exactly equivalent to x = x + 1. But if x is a char, it’s not!
+    In that case,x++ is legal,but x = x + 1 causes an error. Try it out and see what the error message is,
+    then see if you can figure out what is going on.
+     */
+    public static void puzzler(){
+        char x = 'm';
+        System.out.println(x++); //This prints m still
+        System.out.println(x++); //This prints n, the change comes afterwards
+        System.out.println(x); //evaluates to o from last increase
+        System.out.println(x); //prints o
+        //System.out.println(x = x + 1); //Incompatible types; adding int 1 is not possible to a char
+    }
+
+
 
 
         }//end of class

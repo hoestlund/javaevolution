@@ -8,6 +8,9 @@ public class Main {
         Exercises.reverse("This is my reverse text");
         Exercises.checkA("banana", 'a');
         Exercises.countLetters("banana", 'a');
+        Exercises.test();
+        Exercises.puzzler();
+        System.out.println(mystery("Allen"));
 
 
     }//End of main method
