@@ -84,6 +84,24 @@ public class Exercises {
         System.out.println(lastDigit + firstDigit);
     }
 
+    public static void properSwitcher(int number){
+
+        if(number <100 && number >10){ //numbers that are less than ten don't change, should only work with 2 digit numbers
+            String numberString = Integer.toString(number); //There are several ways to change an int to string http://javadevnotes.com/java-integer-to-string-examples
+            char tens = numberString.charAt(1);
+            char decimal = numberString.charAt(0);
+            //System.out.println(tens + decimal); This triggers an unwanted result where the char values of the numbers are added
+            System.out.println("" + tens + decimal); //Here the first + is String concat, so the result will be a String. Note where the "" lies is important. (https://stackoverflow.com/a/16282424/7254272)
+            //A more robust solutions is using stringBuilder i.e: (https://stackoverflow.com/a/16282455/7254272)
+            StringBuilder answer = new StringBuilder();
+            answer.append(tens);
+            answer.append(decimal);
+            System.out.println(answer);
+        }
+
+        else System.out.println("Please enter a two digit number");
+    }
+
 
 
 

@@ -12,7 +12,7 @@ public class Main {
 //        Exercises.puzzler();
         //Mystery takes a string and numbers each char. It prints a new line with the index and the char at that index, then prints the string backwards
         System.out.println(Mystery.mystery("Allen"));
-
+        Exercises.properSwitcher(25);
 
     }//End of main method
 
