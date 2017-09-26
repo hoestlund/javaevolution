@@ -102,10 +102,43 @@ public class Exercises {
         else System.out.println("Please enter a two digit number");
     }
 
+    //This was a puzzle given
+    //callEnigma calls enigma with an integer parameter. Nothing happens if the answer is 0,
+    //Enigma will print 0 if the answer is a multiple of 4, else it prints 0
+    //call Enigma then leaves a line break
 
+    public static void enigma(int x) {
+        if (x == 0) {
+            return;
+        } else {
+            enigma(x/2);
+        }
+        System.out.print(x%2);
+    }
+    public static void callEnigma(){
+        enigma(5);
+        System.out.println("");
+    }
 
+    //A program that is split up into tiny method calls that return string to make a plaindrome of a user's string input
+    public static void palindrome(String s){
+        int last = s.length() - 1;
+        //Originally there were two seperate methods for getting the first and last letter, can be generalized though
+        String first = getLetterAt(s, 0); //getting the first
+        String last = getLetterAt(s, last); //getting the last
+        String middle = middle(s); //no need for index, will just remove the first and last char of s with a check that s has more that 2 characters
+        System.out.println(first + middle + last);
+    }
 
-        }//end of class
+    public static String getLetterAt(String s, int index){
+        //will use the position given by index and return a the character as type string
+        //can make the string to an array to simplify
+    }
+
+    public statuc middle(String s){
+        //should return just the string without the first and last characters
+    }
+}//end of class
 
 
 
