@@ -71,6 +71,19 @@ public class Exercises {
         //System.out.println(x = x + 1); //Incompatible types; adding int 1 is not possible to a char
     }
 
+    //A friend of yours shows you the following method and explains that if number is any two-digit number,
+    // the program will output the number backwards.
+    // He claims that if number is 17, the method will output 71.
+
+    //This doesn't work when the number is less than 10
+    //dividing by int always rounds down the result, everywhere where
+    public static void friendsMethod(){
+        int number = 17;
+        int lastDigit = number%10;
+        int firstDigit = number/10;
+        System.out.println(lastDigit + firstDigit);
+    }
+
 
 
 
