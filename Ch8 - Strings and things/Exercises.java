@@ -121,22 +121,41 @@ public class Exercises {
     }
 
     //A program that is split up into tiny method calls that return string to make a plaindrome of a user's string input
-    public static void palindrome(String s){
+ /*   public static void palindrome(String s){
         int last = s.length() - 1;
         //Originally there were two seperate methods for getting the first and last letter, can be generalized though
         String first = getLetterAt(s, 0); //getting the first
         String last = getLetterAt(s, last); //getting the last
         String middle = middle(s); //no need for index, will just remove the first and last char of s with a check that s has more that 2 characters
         System.out.println(first + middle + last);
-    }
+    }*/
 
-    public static String getLetterAt(String s, int index){
+    /*public static String getLetterAt(String s, int index){
         //will use the position given by index and return a the character as type string
         //can make the string to an array to simplify
     }
 
-    public statuc middle(String s){
+    public static String middle(String s){
         //should return just the string without the first and last characters
+    }*/
+
+    public static void isAbecedarian(String s){
+        int index = s.length() - 1;
+
+        for(int i =0; i <index; i++){
+
+            if(s.charAt(i)<=s.charAt(i + 1)){
+                //System.out.println();
+                //System.out.println(i);
+
+            }
+            else{
+                System.out.println("That is not abecedarian");
+                return;
+            }
+
+        }
+        System.out.println("Wow, that number is abecedarian");
     }
 }//end of class
 

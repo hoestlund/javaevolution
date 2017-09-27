@@ -1,3 +1,5 @@
+import com.sun.corba.se.impl.presentation.rmi.ExceptionHandlerImpl;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -11,8 +13,9 @@ public class Main {
 //        Exercises.test();
 //        Exercises.puzzler();
         //Mystery takes a string and numbers each char. It prints a new line with the index and the char at that index, then prints the string backwards
-        System.out.println(Mystery.mystery("Allen"));
-        Exercises.properSwitcher(25);
+//        System.out.println(Mystery.mystery("Allen"));
+//        Exercises.properSwitcher(25);
+        Exercises.isAbecedarian("abddef");
 
     }//End of main method
 
