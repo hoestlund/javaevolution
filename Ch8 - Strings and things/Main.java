@@ -15,7 +15,15 @@ public class Main {
         //Mystery takes a string and numbers each char. It prints a new line with the index and the char at that index, then prints the string backwards
 //        System.out.println(Mystery.mystery("Allen"));
 //        Exercises.properSwitcher(25);
-        Exercises.isAbecedarian("abddef");
+//        Exercises.isAbecedarian("abddef");
+
+        //test cases for palindrome checking
+        System.out.println(Exercises.isPalindrome("a"));
+        System.out.println(Exercises.isPalindrome("ab"));
+        System.out.println(Exercises.isPalindrome("aa"));
+        System.out.println(Exercises.isPalindrome("aba"));
+        System.out.println(Exercises.isPalindrome("otto"));
+        System.out.println(Exercises.isPalindrome("lotto"));
 
     }//End of main method
 

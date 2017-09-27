@@ -92,6 +92,7 @@ public class Exercises {
             char decimal = numberString.charAt(0);
             //System.out.println(tens + decimal); This triggers an unwanted result where the char values of the numbers are added
             System.out.println("" + tens + decimal); //Here the first + is String concat, so the result will be a String. Note where the "" lies is important. (https://stackoverflow.com/a/16282424/7254272)
+
             //A more robust solutions is using stringBuilder i.e: (https://stackoverflow.com/a/16282455/7254272)
             StringBuilder answer = new StringBuilder();
             answer.append(tens);
@@ -121,41 +122,70 @@ public class Exercises {
     }
 
     //A program that is split up into tiny method calls that return string to make a plaindrome of a user's string input
- /*   public static void palindrome(String s){
-        int last = s.length() - 1;
-        //Originally there were two seperate methods for getting the first and last letter, can be generalized though
-        String first = getLetterAt(s, 0); //getting the first
-        String last = getLetterAt(s, last); //getting the last
-        String middle = middle(s); //no need for index, will just remove the first and last char of s with a check that s has more that 2 characters
-        System.out.println(first + middle + last);
-    }*/
+    //will need to make a loop where the first and last part of middle are evaluated
+    public static boolean isPalindrome(String s){
+        String middle = getMiddle(s); //The initial value of middle, this will be reevaluated in the loop
 
-    /*public static String getLetterAt(String s, int index){
-        //will use the position given by index and return a the character as type string
-        //can make the string to an array to simplify
+        //getLast and getFirst methods useful despite being similar
+        // as we will constantly take substrings and evaluate the first and last char of middle
+
+        if(middle.length() == 1) {return true;} //A single letter is a palindrome
+
+        //read this in the morning and be sure you are not messing up the length and the index
+        //write case for when length is two, check the middle then
+        //isPalindrome("ab")); evaluated to true
+
+        while(middle.length()>=1){ //this will also evaluate two letter words
+
+            //if first and last equal, call middle again
+            if(firstChar(middle) == lastChar(middle)){
+                middle = getMiddle(middle); //This will remove the ends to be re-evaluated again
+            }
+
+            else{return false;}
+        }
+
+        return true;
+
     }
 
-    public static String middle(String s){
-        //should return just the string without the first and last characters
-    }*/
+    public static char firstChar(String s){
+        return s.charAt(0);
+    }
 
-    public static void isAbecedarian(String s){
+    public static char lastChar(String s){
+        return s.charAt(s.length()-1);
+    }
+
+    public static String getMiddle(String s){
+        //will generate the middle of the word
+        if(s.length() > 2){return s.substring(1, (s.length() - 1));} //There is no middle if the word is less than 3
+
+        else{return "";}
+
+    }
+    //generalized get at index method - written before realizing the implementation that the textbook suggested
+    public static String getLetterAt(String s, int index){
+        return "" + s.charAt(index);
+    }
+
+
+
+    public static boolean isAbecedarian(String s){
         int index = s.length() - 1;
 
         for(int i =0; i <index; i++){
 
-            if(s.charAt(i)<=s.charAt(i + 1)){
-                //System.out.println();
-                //System.out.println(i);
+            if(s.charAt(i)<=s.charAt(i + 1)){} //This is empty, will carry on runnting through for then return true
 
-            }
             else{
                 System.out.println("That is not abecedarian");
-                return;
+                return false;
             }
 
         }
         System.out.println("Wow, that number is abecedarian");
+        return true;
     }
 }//end of class
 
