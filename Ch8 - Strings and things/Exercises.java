@@ -121,62 +121,28 @@ public class Exercises {
         System.out.println("");
     }
 
-    //A program that is split up into tiny method calls that return string to make a plaindrome of a user's string input
-    //will need to make a loop where the first and last part of middle are evaluated
-    public static boolean isPalindrome(String s){
-        String middle = getMiddle(s); //The initial value of middle, this will be reevaluated in the loop
 
-        //getLast and getFirst methods useful despite being similar
-        // as we will constantly take substrings and evaluate the first and last char of middle
 
-        if(middle.length() == 1) {return true;} //A single letter is a palindrome
-
-        //read this in the morning and be sure you are not messing up the length and the index
-        //write case for when length is two, check the middle then
-        //isPalindrome("ab")); evaluated to true
-
-        while(middle.length()>=1){ //this will also evaluate two letter words
-
-            //if first and last equal, call middle again
-            if(firstChar(middle) == lastChar(middle)){
-                middle = getMiddle(middle); //This will remove the ends to be re-evaluated again
-            }
-
-            else{return false;}
-        }
-
-        return true;
-
-    }
-
-    public static char firstChar(String s){
+    private static char firstChar(String s){
         return s.charAt(0);
     }
 
-    public static char lastChar(String s){
+    private static char lastChar(String s){
         return s.charAt(s.length()-1);
     }
 
-    public static String getMiddle(String s){
-        //will generate the middle of the word
-        if(s.length() > 2){return s.substring(1, (s.length() - 1));} //There is no middle if the word is less than 3
-
-        else{return "";}
-
-    }
     //generalized get at index method - written before realizing the implementation that the textbook suggested
     public static String getLetterAt(String s, int index){
         return "" + s.charAt(index);
     }
-
-
 
     public static boolean isAbecedarian(String s){
         int index = s.length() - 1;
 
         for(int i =0; i <index; i++){
 
-            if(s.charAt(i)<=s.charAt(i + 1)){} //This is empty, will carry on runnting through for then return true
+
+            if(s.charAt(i)<=s.charAt(i + 1)){} //This is empty, will carry on running through for then return true
 
             else{
                 System.out.println("That is not abecedarian");
@@ -187,6 +153,65 @@ public class Exercises {
         System.out.println("Wow, that number is abecedarian");
         return true;
     }
+
+    //A program that is split up into tiny method calls that return string to make a palindrome of a user's string input
+    //will need to make a loop where the first and last part of middle are evaluated
+
+    //resulting in endless loop
+
+    public static boolean isPalindrome(String s){
+        String middle = getMiddle(s); //The initial value of middle, this will be reevaluated in the loop
+
+        boolean isPal = true;
+        //getLast and getFirst methods useful despite being similar
+        // as we will constantly take substrings and evaluate the first and last char of middle
+
+        //A single letter is a palindrome
+
+        //read this in the morning and be sure you are not messing up the length and the index
+        //write case for when length is two, check the middle then
+        //isPalindrome("ab")); evaluated to true
+
+        if(s.length()>=1) {
+
+            while (middle.length() >= 1) { //this will also evaluate two letter words
+
+                if (middle.length() == 1) {
+                    isPal= true;
+                    middle = getMiddle(middle);
+                }
+
+                //if first and last equal, call middle again
+                else if (firstChar(middle) == lastChar(middle)) {
+                    middle = getMiddle(middle);
+                } // too early? why isn't this working
+
+                //Reassigning middle, will get smaller
+
+                else {
+                    isPal = false;
+                    middle = getMiddle(middle);
+                }
+
+            }
+        }
+
+        else{isPal = true;}
+
+        return isPal;
+    }
+
+    private static String getMiddle(String s){
+        //will generate the middle of the word
+        if(s.length() > 2){return s.substring(1, (s.length() - 1));} //There is no middle if the word is less than 3
+
+        else{return "This string is too small, write again";}
+
+    }
+
+
+
+
 }//end of class
 
 

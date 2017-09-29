@@ -18,12 +18,18 @@ public class Main {
 //        Exercises.isAbecedarian("abddef");
 
         //test cases for palindrome checking
-        System.out.println(Exercises.isPalindrome("a"));
-        System.out.println(Exercises.isPalindrome("ab"));
-        System.out.println(Exercises.isPalindrome("aa"));
-        System.out.println(Exercises.isPalindrome("aba"));
-        System.out.println(Exercises.isPalindrome("otto"));
-        System.out.println(Exercises.isPalindrome("lotto"));
+        //Is more compact and results from method and real results are easier to compare
+        /*private void runningPal(){
+
+            String palTest[] =  new String[]{"a", "ab", "aa", "aba", "acb","otto","lotto"};
+            boolean palTestAns[] = new boolean[]{true, false, true, true, false, true, false};
+            int index = palTest[].length() -1; // length operation not recognized
+
+            for(int y = 0; y<=index; y++ ){
+                System.out.println("Result" + Exercises.isPalindrome(palTest[y]) + "\t");
+                System.out.print(":::   " + palTestAns[y]);
+            }
+        }*/
 
     }//End of main method
 
