@@ -1,18 +1,20 @@
-public class Big {
-    private static int factorial(int x){
-        int result = 1; //in order to not times by 0
+import java.math.BigInteger;
 
-        if(x==0){result =  0;}
+public class Big {
+    private static BigInteger factorial(int x){
+        BigInteger result = BigInteger.valueOf(1);
+
+        if(x==0){result =  BigInteger.valueOf(0);}
 
         else{
             while(x>1){
-                result = result * x;
+                result = result.multiply(BigInteger.valueOf(x));
                 x--;
                 factorial(x);
             }
         }
 
-        return result;
+        return (result);
 
     }
 
