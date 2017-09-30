@@ -1,5 +1,9 @@
 import java.math.BigInteger;
 
+//The first exercises are not programming challenges. Here are the solutions to the exercises given
+//The expansion exercises from Appendix A is given in the class GraphicsExperiment
+//end p121 (139)
+
 public class Big {
     private static BigInteger factorial(int x){
         BigInteger result = BigInteger.valueOf(1);
@@ -28,8 +32,6 @@ public class Big {
 
     }
 
-
-//TODO USE BIG
     public static BigInteger pow(int x, int n) {
         if (n == 0) return BigInteger.valueOf(1);
         // find x to the n/2 recursively
@@ -42,4 +44,6 @@ public class Big {
             return t.multiply(t).multiply(BigInteger.valueOf(x));
         }
     }
+
+    //The final exercise recommends reading Appendix A and do the exercises.
 }
