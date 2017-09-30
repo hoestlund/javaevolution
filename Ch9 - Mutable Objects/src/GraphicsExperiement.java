@@ -1,5 +1,4 @@
-import java.awt.Canvas;
-import java.awt.Graphics;
+import java.awt.*;
 import javax.swing.JFrame;
 
 public class GraphicsExperiement extends Canvas{
@@ -23,6 +22,12 @@ public class GraphicsExperiement extends Canvas{
     }
     public void paint(Graphics g){
         // draw a circle
+        //x and y are where the boundry box starts
+        g.setColor(Color.ORANGE);
         g.fillOval(100, 100, 200, 200);
+        g.setColor(Color.green);
+        g.fillOval(700,100,200,200);
     }
+
+
 }
