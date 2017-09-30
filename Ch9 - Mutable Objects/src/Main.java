@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //Big.printFactorialTbl(30);
-        GraphicsExperiement.firstjFrame();
+        GraphicsExperiment.firstJFrame(); //creates the JFrame to draw on
+
     }
 }
