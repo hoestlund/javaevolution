@@ -1,5 +1,5 @@
 import java.awt.*;
-import javax.swing.JFrame;
+import javax.swing.JFrame; // is this even necessary?, how do they intereact
 
 public class Mickey {
 
