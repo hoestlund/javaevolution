@@ -10,7 +10,7 @@ public class Main {
 
 //Another quick practice. Because the parameter is a class it means the method relies on class creation.
 // Therefore the method can not be accessed in a static way e.g. Date.printBirthday
-        Date birthday = new Date(1994, 02, 27);
+        /*Date birthday = new Date(1994, 02, 27);
         birthday.printBirthday(birthday);
 
         Date longBirthday = new Date();
@@ -18,6 +18,17 @@ public class Main {
         longBirthday.month = 02;
         longBirthday.date = 27;
         longBirthday.printBirthday(longBirthday);
+
+        Rational fraction = new Rational();
+        fraction.printRational(fraction);
+
+        Rational myFraction = new Rational(45, 5);*/
+
+        Rational negateTest = new Rational(2, 4);
+        negateTest.invert(negateTest);
+        System.out.println(negateTest.numerator + "/" + negateTest.denominator);
+        System.out.println(negateTest.toDouble(negateTest));
+
 
     }
 }
