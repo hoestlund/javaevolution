@@ -67,7 +67,31 @@ public class Rational {
         System.out.println("Reduced version: " + redNum + "/" + redDen);
 
         }
+    //Should take two rationals and add them
+    //Adding operation doesn't matter but the result should be simplified completely
 
+
+    public Rational add(Rational first, Rational second){
+
+        //Getting a common denominator
+        Rational add = new Rational();
+        add.denominator = first.denominator * second.denominator;
+
+        //Scaling the numerators of the two objects and adding them together
+        add.numerator = (first.numerator * second.denominator) + (second.numerator * first.denominator);
+
+        //Simplify the add Object
+
+        int gcd = gcd(add.numerator, add.denominator);
+
+        add.numerator = add.numerator/gcd;
+        add.denominator = add.denominator/gcd;
+
+        return add;
+
+    }
+
+    //Use to simplify the fractions
     public static int gcd(int a, int b) {
 
         int r = a % b;

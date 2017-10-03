@@ -24,11 +24,22 @@ public class Main {
 
         Rational myFraction = new Rational(45, 5);*/
 
+
+        /*
+        //Testing double method
         Rational negateTest = new Rational(2, 4);
         negateTest.invert(negateTest);
         System.out.println(negateTest.numerator + "/" + negateTest.denominator);
         System.out.println(negateTest.toDouble(negateTest));
 
+        //Testing the addition method
+        Rational one = new Rational(2, 4);
+        Rational two = new Rational(3,2);
+
+        Rational sum = new Rational();
+        sum = sum.add(one, two);
+
+        System.out.println(sum.numerator + "/" + sum.denominator);*/
 
     }
 }
