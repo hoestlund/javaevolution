@@ -5,7 +5,7 @@ public class Array_practice {
 
         //Creating a clone array of the same length
         //Done to prevent morphing
-        int [] cloneArray = new int[originalArray.length - 1];
+        int [] cloneArray = new int[originalArray.length];
 
         //Copying the values from originalArray
         int i;
@@ -22,12 +22,18 @@ public class Array_practice {
 
 
     //Creates a random Array with each element being a value between 0 and n
-    public  int[] randomArray(int n) {
-        int[] a = new int[n];
-        for (int i = 0; i<a.length; i++) {
-            a[i] = randomInt(n);
+    //ISSUE not able to use method
+    public  int[] randomArray(int[] input) {
+        int index = input.length - 1;
+
+        int[] a = new int[index];
+
+        for (int i = 0; i<index; i++) {
+            a[i] = randomInt(index);
         }
-        return a; }
+
+        return a;
+    }
 
     //Used by the randomArray method
     private int randomInt(int high){
@@ -36,7 +42,9 @@ public class Array_practice {
     }
 
     public static void printArray(int[] a) {
-        for (int i = 0; i<a.length; i++) {
-            System.out.println(a[i]);
+        for (int i = 0; i < a.length; i++) {
+            System.out.print(a[i]);
         }
+        System.out.println("");
+    }
 }

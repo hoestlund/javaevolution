@@ -1,11 +1,17 @@
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        int[] test = new int[];
-        test = test.randomArray(10);
 
-        int[] testDuplicate = new int[];
-        testDuplicate = testDuplicate.clone(test);
+        Array_practice arrayObj = new Array_practice();
+
+
+        int[] test = new int[10];
+        test = arrayObj.randomArray(test);
+
+        //int[] testDuplicate = new int[];
+        int[] testDuplicate = arrayObj.cloneArray(test);
+
+        arrayObj.printArray(test);
+        arrayObj.printArray(testDuplicate);
     }
 }
