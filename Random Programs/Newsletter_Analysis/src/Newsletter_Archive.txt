@@ -1,0 +1,874 @@
+//NB Exclude this when uploading to GitHub
+
+EDITION 1
+CORPORATE INNOVATION CASES
+CHEMICAL DISTRIBUTION
+Chemicals maker Evonik has gone digital with the launch of its new subsidiary Evonik Digital GmbH, which includes around 20 experts. Christian Kullmann, Deputy Chairman of the Executive Board and responsible for digitalization strategy, said, “Digitalization offers more than new technologies. It also creates new opportunities for collaboration and production, and gives rise to new business models and marketing options. Evonik is taking a pioneering role in the chemical industry here.” The new subsidiary will be based in the center of Essen and will commence operation early this year, according to the company. As part of the new move, the specialists will ‘develop digital concepts and solutions, test them, and get them off the ground within the group.’ Evonik will team up with promising startups and renowned technology companies as part of the new subsidiary.
+https://globalcosmeticsnews.com/europe/3990/evonik-goes-digital-with-new-dedicated-subsidiary
+
+INDUSTRY 4.0
+John Deere partners with Kespry to bring drones and aerial data to construction and forestry. Based in Menlo Park, Kespry helps mining, construction and other businesses put drones to work gathering data and images from on high, then using these to decide where and how to cut costs and improve productivity and safety on job sites. Kespry offers cloud-based software and big data analytics, as well as their own unmanned aerial vehicles. A predecessor that does not have its own hardware to offer but does provide sophisticated software and analytics to the same industries, Airware, has a similar partnership with and an equity investment from Caterpillar. Through the new partnership, John Deere construction and forestry equipment dealers will offer their customers Kespry Aerial Intelligence systems for use on job sites around the world. Kespry leases its drones but does not sell them outright. John Deere offers a mix of leases and sales.
+https://techcrunch.com/2017/03/07/john-deere-partners-with-kespry-to-bring-drones-and-aerial-data-to-construction-and-forestry/
+
+DIGITAL SUPPLY CHAIN
+IBM and Maersk are using a blockchain built on the Hyperledger Fabric to manage the supply chain for container shipping. Ramesh Gopinath, IBM’s vice president of blockchain research, said all the documents for shipping containers can be fully digitized and the containers can be tracked. In the September POC, the shipping cost $2,000 and the paperwork could be about $300, or 15 percent of the cargo’s value. Traditionally, a simple shipment of refrigerated goods from East Africa to Europe can go through nearly 30 people and organizations, including more than 200 different interactions and communications among them, said the IBM announcement. Using digital records and a blockchain can sharply reduce costs, although the actual savings won’t be known for a year or two until the blockchain is more widely used.
+https://www.forbes.com/sites/tomgroenfeldt/2017/03/05/ibm-and-maersk-apply-blockchain-to-container-shipping/#39f443de3f05
+
+CHEMICAL DISTRIBUTION
+Evonik Technology & Infrastructure’s logistics arm has selected DHL Resilience 360 risk-management solution to optimize supply chains. Resilience360 will help in real-time analysis of problems that arise for vessels, trains or trucks in their transport routes after starting from Evonik locations across the globe. Evonik will mainly use Resilience 360 solution to assess potential dangers in road transport. To avoid problems arising from various conditions such as heavy rainfall, manufacturing issues or road closures, the software will provide countermeasures to redistribute supply chain’s resources for minimizing or completely avoid damage. Resilience360 platform will provide information about natural disasters and socio-political or other risks to Evonik’s global production and distribution network. It will provide information by using heat maps that visualize the locations where problems are expected to occur on different routes.
+http://supplychain.logistics-business-review.com/news/evonik-selects-dhls-risk-analysis-tool-to-optimize-supply-chains-230217-5747236
+
+PLATFORMS AND STARTUPS
+CHEMICAL DISTRIBUTION
+The Finnish Safety and Chemicals Agency (Tukes) is developing a national online database of chemicals to bring information on substances into one place. The KemiDigi project will enable companies to handle chemicals with reporting obligations through a single service, after which the information will be available for others who need it.The database will reduce workloads for businesses and allow authorities to have a direct control on risk assessment. The project will start piloting in small 'blocks' at the end of 2017 with full operations scheduled for 2020. Initially the database will be limited to hazardous chemicals. Later, it will be possible for companies to maintain lists of chemicals for emergency and employment protection needs. Discussions are ongoing about the type of information that should be collected, who should use the system and the conditions under which information may be used, the agency says. It is consulting representatives of public authorities and businesses.
+https://chemicalwatch.com/53781/finland-develops-online-chemicals-database
+
+DIGITAL SUPPLY CHAIN
+Cognitiv+ is applying artificial intelligence to automate contract analysis and management, offering businesses a way to automate staying on top of legal risks, obligations and changing regulatory landscapes. Contracts are uploaded to the system for analysis and tracking, with examples of the sorts of critical information Cognitiv+ can extract including the parties of the contract; the limit of liability; renewal and termination information; and jurisdiction. Users are delivered intel on an ongoing basis via reports, dashboards and notifications. The tool is generally being designed for use by in-house lawyers, commercial staff, procurement, financial and compliance departments. The current industry focus for the team is procurement in the financial sector, but next year it plans to expand to target the insurance, real estate and engineering industries too. They’re currently also only tracking UK-related compliance, but are intending to add EU and US in the “coming months”.
+https://techcrunch.com/2017/03/08/cognitiv-is-using-ai-for-contract-analysis-and-tracking/
+
+CHEMICAL DISTRIBUTION
+The world recycles just 14% of the plastic packaging it uses. Recycling the remaining 86% of used plastics could create $80bn-$120bn in revenues, says a recent report by the Ellen MacArthur Foundation. But those revenues will never be fully achieved without designing new ways to breakdown and reuse 30% (by weight) of the plastic packaging that isn’t recycled because the material is contaminated or too small for easy collection, has very low economic value or contains multiple materials that cannot be easily separated. The market opportunity has attracted small, young companies like Agylix, BioCellection, Saperatec and Cadel Deinking that focus on developing recycling technology to tackle that troublesome 30% of plastic packaging.
+https://www.theguardian.com/sustainable-business/2017/feb/22/plastics-recycling-trash-chemicals-styrofoam-packaging
+
+RESEARCH AND INSIGHTS
+
+CHEMICAL DISTRIBUTION
+A University of Glasgow research project could help future space explorers create their own chemicals and drugs on demand, allowing them to maximise the efficiency of their launch payloads by taking raw chemicalingredients with them rather than specific medications. They could then use digital chemistry technology to make drugs and other materials as required.‌‌ A DIDO2 nano-satellite containing an experiment designed by Professor Lee Cronin, the University's Regius Chair of Chemistry, was one of 103 launched into space on an Indian rocket. The experiment is a continuation of previous research from the Cronin Group which aims to digitise chemistry and make it possible for chemical compounds of all kinds to be 'printed' on demand.
+https://phys.org/news/2017-02-digital-chemistry-heights-space.html
+
+
+DIGITAL SUPPLY CHAIN
+After the city of Flint, Michigan, temporarily switched water sources in 2014, residents began to develop unusual medical conditions. The city later learned the water was contaminated with high levels of lead and other toxins. In the future, we could use blockchains to avoid the kind of uncertainty and misinformation that caused so much damage to the Flint community. Blockchain technology could be rolled out as part of a two-layer system: one layer for collecting supply-line data in real time and the other for securing and making the data available to stakeholders. This hybrid of IoT and blockchain would of course have many more use cases beyond water management. To name just one other example, the same system could be used to improve the monitoring of oil pipelines. To date, supply-line organizations are showing little or no interest in blockchain tech. But as customers and communities apply increasing pressure for gas and oil pipelines that don’t leak and pollute, clean water, and industrial food and beverage facilities that accurately monitor contamination, we could see a shift towards implementing blockchain technology.
+http://venturebeat.com/2017/02/25/how-blockchains-could-save-us-from-another-flint-like-contamination-crisis/
+
+DIGITAL SUPPLY CHAIN
+Karthik Sridharan, CEO of the SMB procurement platform Kinnek shared insights on the challenges and opportunities that lie in bringing small business owners together with suppliers: “For any marketplace, you have to worry about preventing people from going around you, while also explicitly doing things to make sure that buyers and suppliers want to stay on the platform. What we always think about for our platform is that, even in the case of a buyer that has a supplier they would never switch from, we need that buyer to want to use Kinnek for managing that relationship. It’s a tricky product challenge, but I think we’ve made it work by doing several things. One is that suppliers really care about the reputational ecosystem, so if the Kinnek marketplace is an increasingly important source of business for a supplier, then they want those interactions to be through Kinnek.”
+http://www.pymnts.com/matchmakers/2017/kinnek-b2b-marketplace-matchmaking/
+
+
+CHEMICAL DISTRIBUTION
+Market intelligence firm Infiniti Research has recently announced their list of major trends expected to impact the chemical industry in 2017. As the political climate, regulations, connectivity and technologies are changing around the world, the ever-evolving chemical industry will have to adapt to remain competitive and successful. Here are the top five major trends that analysts from Infiniti Research expect to shape the structure and potential for success in the global chemical industry this year: Extreme competition, Digitization, Cloud computing, Customer engagement, Regulatory changes.
+http://www.businesswire.com/news/home/20170223006493/en/Infiniti-Research-Announces-List-Major-Trends-Chemical
+
+
+
+
+
+
+EDITION 2 21.3.2016 - 20.4.2017
+
+CORPORATE INNOVATION CASES
+CHEMICAL DISTRIBUTION
+BASF is working with Hewlett Packard Enterprise on a project to develop one of the world's largest supercomputers for industrial chemical research. The work itself is being undertaken at BASF's headquarters in Ludwigshafen, Germany. "The new supercomputer will promote the application and development of complex modeling and simulation approaches, opening up completely new avenues for our research at BASF," said Dr. Martin Brudermueller, vice chairman of the board of executive directors and chief technology officer at BASF.
+www.forbes.com/sites/adrianbridgwater/2017/03/20/chemical-romance-basf-tapes-hope-on-hewlett-packard-enterprise-supercomputer/
+
+CHEMICAL DISTRIBUTION
+Chemicals are required both to develop film and to manufacture digital camera sensors — and Fujifilm will be expanding for both applications with a new division. Fujifilm announced the launch of its Fine Chemical Business Division after acquiring a Japan-based chemical company. The new division will help expand Fujifilm’s “high-function” chemical and laboratory chemical business, the announcement says, and will do so by working with the recently acquired Wako Pure Chemical Industries Ltd. The new division, officially launched on April 1, will also work with Wako’s existing structure to distribute over 200,000 varieties of chemicals, further strengthening the company’s chemical production by sharing both technology and distribution networks.
+www.digitaltrends.com/photography/fujifilm-announces-new-chemical-division/
+
+CHEMICAL DISTRIBUTION
+DuPont Performance Materials Announces High-Performance Materials for 3D Printing. The expansion of these high-performance materials into the realm of 3D printing will enable users to achieve the true benefits of 3D printing (greater design freedom, light weighting, reduced product development cycles and much more), allowing for rapid prototyping, part production and mass customization. “We are very excited about the addition of these new filament-based products to our existing portfolio and the progress made in the launch of these products for the 3D printing industry. We believe these products will help our customers meet their needs for prototyping and manufacturing using 3D printing as this technology continues to get adopted across multiple industries.” said Rahul Kasat, business development leader, DuPont Performance Materials.
+www.engineeringnews.co.za/article/dupont-performance-materials-announces-high-performance-materials-for-3d-printing-2017-03-22
+
+CUSTOMER EXPERIENCE
+Sun Chemical’s online support platform, SunSupportOnline.com, has been enhanced with mobile-friendly capability. Available to US and Canadian customers, the mobile-friendly platform features an easy to navigate user interface which includes the ability to view order history, re-order product from a personalized product catalog, and check shipment status of open orders. “Increasingly customers want to interact via their mobile devices to improve productivity – either to check their order history, track a shipment or reorder common products while on the go” said Penny Holland, VP of marketing, North American Inks, Sun Chemical.
+www.inkworldmagazine.com/contents/view_breaking-news/2017-03-31/sun-chemical-enhances-online-platform-for-us-and-canadian-customers/
+
+PLATFORMS AND STARTUPS
+CHEMICAL DISTRIBUTION
+Accenture and SAP plan to expand their collaboration on SAP S/4HANA to develop a digital industry platform that will help chemical companies advance a new era of digital transformation. Co-developed by Accenture and SAP under their SAP S/4HANA collaboration, SAP S/4HANA Chemicals is an innovative re-launch of SAP Best Practices for Chemicals and SAP Business All-in-One for Chemicals solutions. Optimized to run on the SAP HANA platform and enhanced with SAP Fiori UX, the new solution targets embedded analytics, enabling real-time decision making from shop floor to top floor and predictive “what-if” simulation capabilities.
+finance.yahoo.com/news/accenture-sap-help-chemical-companies-115900440.html
+
+INDUSTRY 4.0
+Alchemist Accelerator has raised $2 million from GE Digital to start a new program for industrial IoT startups. In the past, enterprise hardware and software startups were seen as capital intensive, with the challenge of long sales cycles. That made them less appealing to early-stage investors. But VC’s at every stage appear more interested in enterprise tech these days as sensors, wearables, robotics and autonomous vehicles are transforming industrial sectors. GE Digital Vice President and CFO Khozema Shipchandler, who oversees the group’s merger and acquisition activity, said his firm intends to participate in follow-on investments in promising companies from the accelerator’s new track, and may possibly acquire some companies or partner with others. Last year, GE acquired Alchemist alumni Wise.io, so there’s precedent for serious deal making. Shipchandler said, ”As the industrial internet plays out it’s not 100% clear which technologies will win. We’re thinking about AI, machine learning, data integration, drone tech, inspection technologies, things of that nature. From our vantage it’s important to place a few different bets at the same time. Working with an accelerator like Alchemist can give us a learning entry-point to see what is out there.”
+techcrunch.com/2017/03/29/ge-invests-2-million-in-alchemist-accelerator-to-back-industrial-iot-startups/
+
+DIGITAL SUPPLY CHAIN
+Supply chain startup Paradata is the first to benefit from a new fund launched by German software giant SAP. The San Jose business shifted to its cloud-based supply chain management focus several years ago after hiring longtime Flextronics executive Debbra Rogers as its CEO. "We aim to be the Google of the supply chain industry," Rogers said of her 20-person business. "Our machine learning and systems help manufacturers, distributors and suppliers all get the real-time information they need."
+http://www.bizjournals.com/sanjose/news/2017/03/23/san-jose-supply-chain-startup-is-first-to-get-cash.html
+CUSTOMER EXPERIENCE
+China-based WuXi AppTec’s global chemistry ecommerce platform company LabNetwork has entered a new partnership with scientific, technical and medical information products and services provider, Elsevier. Intended to provide a seamless experience from chemistry research to purchase, the new collaboration aims to simplify and speed-up purchasing decisions for companies and researchers. Under the deal, users of Elsevier’s premier chemistry database Reaxys can directly access LabNetwork’s nearly four million commercially available discovery and research compounds that are sourced from more than 2,000 suppliers worldwide.
+http://www.chemicals-technology.com/news/newswuxi-apptecs-chemistry-ecommerce-platform-labnetwork-collaborates-with-elsevier-5773895
+
+RESEARCH AND INSIGHTS
+INDUSTRY 4.0
+Industrial companies have a critical tool at hand to mitigate risk and reduce costs from unexpected downtime: data. But in today’s digital world, oftentimes these organizations find themselves faced with too much data to make sense of. By the year 2020, data production will reach an all-time high — 44 times greater than it was in 2009. Think of it this way: when something like unplanned downtime in an automotive plant can cost $22,000 per minute, industrial engineers often hone in on the data that only provides red flags to avoid incidents in the first place. As a result, they overlook other critical data in the process, losing out on opportunities to save money in the long term. This unused data — also known as “dark data” — has the potential to improve operations and significantly reduce costs. But where can dark data benefit industrial organizations the most?
+http://insidebigdata.com/2017/04/10/dark-data-iiot/
+
+CHEMICAL DISTRIBUTION
+An online tool to track the use of bio-based raw materials in products has been launched as a pilot by AkzoNobel, Advanced Biochemical and EY. The partners say it will be the first tool ever to use e-certification to track bio-based content along the value chain. Many chemicals can be made either from fossil feedstock or bio-based raw materials, such as vegetable oils or sugars, but it is difficult to verify how much of each has been used. The new tool aims to solve this problem by verifying exactly how much of a product is made from bio-based raw materials. This will make it easier for producers to choose more sustainable products and move towards a more circular economy, the companies say.
+https://www.environmentalleader.com/2017/03/bio-based-chemical-tool-aims-advance-circular-economy/
+
+
+
+EDITION 3 21.4.2017 - 5.5.2017
+CORPORATE INNOVATION
+
+DIGITAL SUPPLY CHAIN
+Maersk starts collaboration with Microsoft. Global transport and logistics powerhouse Maersk recently announced that it has joined forces with Microsoft Corp. in a strategic move to revolutionize supply-chain management and worldwide commerce. From its connected vessels to its transportation economics, the company is betting on Microsoft to fuel growth and power logistics globally. “Our aim is to simplify and enhance visibility in supply chains by providing a seamless end-to-end digital experience for our customers,” said Ibrahim Gokcen, chief digital officer, Maersk. “Microsoft Azure is the cornerstone in our digital strategy, providing one common platform shared by all our transport and logistics businesses. On Azure, we are also creating a marketplace of apps and digital products that improve operations and drive better business decisions.”
+http://www.logisticsmgmt.com/article/maersk_deal_with_microsoft_brings_more_digitization_to_global_supply_chain
+
+CHEMICAL DISTRIBUTION
+Nova Chemicals improves online tool for predicting multi-layer film performance. An intuitive interface walks users through the process of building potential structures while giving them the ability to select any Nova Chemicals resins and non-polyethylene polymers that are commonly used in multi-layer structures. Additionally, customers can now estimate bending stiffness, which translates to converting line speeds; calculations for machine direction tear and penetration energy will be added in the next several months. Common structure types can be saved as templates for later use. For reference offline, Bonfire now lets users export their predicted structure data into a PDF report format.
+https://www.plasticstoday.com/materials/nova-chemicals-improves-online-tool-predicting-multi-layer-film-performance/67173627056698
+
+INDUSTRY 4.0
+Sabic invests in Dutch composite engineering company. Sabic said its investment in Airborne will help enable it to develop automated manufacturing for composites applications, “with enhanced yields, cycle times and system cost.” Also commenting on the investment, Arno van Mourik, founder and CEO of Airborne International of The Hague, Netherlands, said the “radical increase” in automation and availability of data will be “a crucial success factor in the composites industry.” “Joining forces with Sabic is an important step towards our new strategy becoming a front runner in automation and digitization of composite manufacturing,” Mourik added.
+http://www.plasticsnews.com/article/20170503/NEWS/305039998/sabic-invests-in-dutch-composite-engineering-company
+
+PLATFORMS AND STARTUPS
+
+DIGITAL SUPPLY CHAIN
+A software developer wants to transform Amazon’s personal assistant Alexa into a tool for scientists. James Rhodes - whose wife is a microbiologist - has created a skill for Alexa called Helix which lends a helping hand around the laboratory. While most people might ask Alexa to check the news headlines, play music, or set a timer because our hands are a mess from cooking, scientists could look up a melting points, pose simple calculations, or ask for an experimental procedure to be read aloud while their hands are gloved and in use. For now Helix is still a proof-of-concept. But you can sign up to try an early working version, and Rhodes has plans to extend its abilities—perhaps even adding the ability to order lab supplies, much like you can order goods from Amazon. It’s just a shame that Alexa can't write up the results of experiments ... for now, anyway.
+https://www.technologyreview.com/s/604322/scientists-are-turning-alexa-into-an-automated-lab-helper/?set=604316
+
+CUSTOMER EXPERIENCE
+Airwallex raises $13M led by Tencent to bring its cross-border payment service to Europe. The deal was led by Chinese internet giant Tencent - marking its first investment in an Australian startup - with participation from Sequoia China, MasterCard and existing investor Gobi Ventures. Airwallex was founded last year to tackle the issue of cross-border transactions at scale. Unlike predominantly consumer-focused services such as TransferWise — which actually opened an Asia Pacific HQ last week — Airwallex targets businesses, allowing them to make and receive international payments at scale at both a lower cost and with less hassle. Beyond convenience of faster payment and reconciliation, the Melbourne-based startup, which previously raised $3 million last summer, has forged relationships with trading partners to help its customers save money on their overseas transactions.
+https://techcrunch.com/2017/05/01/airwallex-tencent-series-a-mastercard-sequoia-china/
+
+DIGITAL SUPPLY CHAIN
+Tesla executives launch a mysterious startup for materials recycling. CB Insights spotted a new SEC filing for a company called Redwood Materials. The documents list Jeffrey “JB” Straubel, Tesla’s co-founder and current CTO, and Andrew Stevenson, Tesla’s head of special projects, as its chief executives. The company's website states: “Unlock the value of your materials,” with a subhead that reads, “Advanced technology and process development for materials recycling, remanufacturing, and reuse.”
+https://www.cbinsights.com/blog/tesla-execs-advanced-materials-project/
+
+
+RESEARCH AND INSIGHTS
+
+DIGITAL SUPPLY CHAIN
+Gartner Survey Shows 42 Percent of CEOs Have Begun Digital Business Transformation. Product improvement and technology are the biggest-rising priorities for CEOs in 2017. "IT-related priorities, cited by 31 percent of CEOs, have never been this high in the history of the CEO survey," said Mark Raskino, vice president and Gartner Fellow. "Almost twice as many CEOs are intent on building up in-house technology and digital capabilities as those plan on outsourcing it (57 percent and 29 percent, respectively). We refer to this trend as the reinternalization of IT — bringing information technology capability back toward the core of the enterprise because of its renewed importance to competitive advantage. This is the building up of new-era technology skills and capabilities."
+http://www.gartner.com/newsroom/id/3689017
+
+INDUSTRY 4.0
+Refineries explore IIoT tools to maximize profits. To strengthen their chances of success, refiners are increasingly exploring digital tools that take advantage of the emerging Industrial Internet of Things (IIoT), as well as advanced software for data analysis that can optimize process operations and reduce downtime. The historical approach to refinery operation has largely been characterized by a “run to fail” mentality, where abnormal conditions and malfunctions were detected only when alarms arose or when a component broke or failed. The IIoT enables operators, engineers and plant managers to capture and analyze data so they can predictively identify potential issues before problems arise. A plant enabled by IIoT is equipped with a combination of sensors, automation systems and cloud-based technologies that are integrated with its current systems and data analytics capabilities. Streaming data from sensors and instruments allow plants to quickly assess current conditions and identify warning signs for abnormal operations. Beyond that, digital tools that enable plants to access the benefits of the IIoT and cloud computing are becoming instruments for boosting profitability.
+http://www.chemengonline.com/refineries-explore-iiot-tools-maximize-profits/?printmode=1
+
+CHEMICAL DISTRIBUTION
+Global chemical M&A activity is expected to increase in 2017, but geopolitical factors, such as protectionism, could pose a challenge to achieving the levels of record activity the industry experienced in 2015 and 2016, according to Deloitte's 2017 Global chemical industry mergers and acquisitions outlook. "Companies are increasingly focused on gaining access to technological capabilities and are creating corporate venture capital divisions to help support new investments," said Duane Dickson, vice chairman, Deloitte LLP and U.S. chemicals and specialty materials sector leader. "Increased digitization around the world is also expected to encourage M&A activity. We expect to see these global trends lead to increased growth and deal flow in the chemicals industry."
+https://www2.deloitte.com/global/en/pages/manufacturing/articles/global-chemical-industry-m-and-a-outlook.htm
+
+EDITION 4 5.5.2017 - 19.5.2017
+CORPORATE INNOVATION
+
+CHEMICAL DISTRIBUTION
+Unilever Develops New Technology To Recycle Plastic Sachet Waste. Unilever has unveiled its ground-breaking new technology to recycle sachet waste. This technology, called CreaSolv Process, has been developed with the Fraunhofer Institute for Process Engineering and Packaging IVV in Germany and is inspired by an innovation used to recycle TV sets. CreaSolv Process technology has been adapted from a method used to separate brominated flame retardants from waste electrical and electronic equipment polymers. During the process, the plastic is recovered from the sachet, and the plastic then used to create new sachets for Unilever products – creating a full circular economy approach, Unilever says.
+http://ciwm-journal.co.uk/unilever-develops-new-technology-recycle-plastic-sachet-waste/
+
+CHEMICAL DISTRIBUTION
+Sabic zooming in on 3D printing market. Materials maker Saudi Basic Industries Corp. (Sabic) is expanding its offerings for the 3D printing/additive manufacturing market. "We can take our knowledge in materials and application development to design new materials for additive manufacturing," additive manufacturing senior business manager Keith Cox said May 9 at the RAPID + TCT 3D printing trade show in Pittsburgh. "Our materials can be specialized in a variety of ways," he added. "When you look at a material like polycarbonate, if you're blow molding a bottle or making a headlamp or making DVDs, it wouldn't be the same material. We can do the same thing for additive manufacturing."
+http://www.plasticsnews.com/article/20170511/NEWS/170519972/sabic-zooming-in-on-3d-printing-market
+
+CUSTOMER EXPERIENCE
+AkzoNobel Launches New App for Marine Coatings Users. AkzoNobel has announced the launch of AkzoNobel Marine Coatings' International mobile app - intended to provide customers with increased flexibility in accessing the company's coatings data. "This latest development of AkzoNobel's digital innovation journey demonstrates how we are utilising the latest technology and communications channels to drive customer engagement and significantly improve user experience," said Oscar Wezenbeek, Managing Director at AkzoNobel's Marine Coatings business.
+https://shipandbunker.com/news/world/142569-akzonobel-launches-new-app-for-marine-coatings-users
+
+
+PLATFORMS AND STARTUPS
+
+DIGITAL SUPPLY CHAIN
+Ontruck, a Madrid-based startup that has built an “on-demand logistics platform” to connect businesses directly with road freight carriers, has raised $10 million in Series A funding. Founded in 2016, Ontruck is one of numerous startups attempting to ‘digitise’ the road freight market and bring with it a little more transparency to what is still a very arcane and opaque industry. It enables companies who have road freight shipping needs to get an instant price for their desired destination, date, and truck specifications. Precise pick-up slots can be selected, and, a bit like an Uber, shipments are traceable throughout the journey.
+https://techcrunch.com/2017/05/11/ontruck/
+
+
+
+
+CUSTOMER EXPERIENCE
+SAP has announced the expansion of its digital innovation system, Leonardo, described by the enterprise software giant as combining differentiating software capabilities in machine learning, IoT, big data, analytics, and blockchain on its SAP Cloud Platform. Under the SAP Machine Learning applications banner, the company will roll out SAP Service Ticketing, which forms part of Hybris Cloud for Customer and classifies incoming customer service tickets to be routed to the right agent. Other applications include Customer Retention, which will mine company data to highlight the indicators of churn, and will also predict appropriate instances to up-sell to a customer; while the Brand Impact will use deep learning to check for brand images in videos and images in near-real time.
+http://www.zdnet.com/article/sap-sends-leonardo-digital-innovation-system-into-full-swing/
+
+
+DIGITAL SUPPLY CHAIN
+Supply chain transparency and the tech startups creating it which may be the next disruptor. SaaS solutions have long been helping consumers to better track the exact location of their package and send shipping notifications. But the desire for transparency extends beyond tracking a product from the warehouse to its final destination into new territory. A demand for supply chain transparency has resulted in a wave of new innovations from startups looking to delve into a space that is proving to be both lucrative and beneficial for all involved.
+https://www.forbes.com/sites/mnewlands/2017/05/15/supply-chain-transparency-and-the-tech-startups-creating-it-which-may-be-the-next-disruptor/
+
+
+RESEARCH AND INSIGHTS
+DIGITAL SUPPLY CHAIN
+Taming the wild west of cybersecurity in the supply chain. The flow of goods and services relies on the constant flow of information. But supply chains are by nature complex, evolving operations that are vulnerable to many risks; security being a primary one. Cybersecurity weighs heavily on the minds of global trade professionals when it comes to business risks in the supply chain. A recent survey of 250 industry professionals revealed their top supply chain concern was cybersecurity, and it is easy to understand why. The average cost to an organization of a data breach, as reported in 2015, was $6.5 million U.S.
+http://www.supplychaindive.com/news/cyber-security-supply-chain-wild-west-challenge/442870/
+
+INDUSTRY 4.0
+Industry 4.0 presents a vast opportunity for specialty chemicals manufacturers using the right technologies and strategic approach. Compound annual growth in specialty chemicals manufacturing, while expected to be over 4 percent by 2024, is impacted by a slowdown in the chemical industry overall as well as in the automotive, construction, and pharmaceutical sectors served by specialty chemicals manufacturers. This increases the urgency for specialty chemicals companies to find new ways to compete and ensure the long-term health of their businesses. Sikich proposes a low-risk, results-oriented roadmap for Industry 4.0 adoption, starting with a proof-of-concept in a distinct business area such as asset or quality management.
+http://news.sys-con.com/node/4083257
+
+
+DIGITAL SUPPLY CHAIN
+Manufacturers need digital supply chain to be competitive. According to a new survey from Grant Thornton, "The Future of Growth and the manufacturing Industry Report", companies that want to be competitive must adopt strategies to address the issues. Forward-thinking manufacturers are using technology advances — AI, advanced robotics, 3-D printing, prescriptive analytics — to improve the performance of their supply chains. By using 3-D printing, for example, companies can respond quickly to changing customer demands and shift production from factories offshore to sites closer to the customer base. Robots, meanwhile, can work on production lines alongside human workers.
+http://mhlnews.com/global-supply-chain/manufacturers-need-digital-supply-chain-be-competitive
+
+EDITION 5 19.5.2017 - 1.6.2017
+CORPORATE INNOVATION
+
+CHEMICAL DISTRIBUTION
+The Digital Transformation In The Chemical Process Industry. A key driver for the digital transformation in the CPI is maintaining a competitive edge. Global competition, immediate communications and technological advances are creating an environment where businesses need to respond with increasing speed. Aligning production and business through the tools available with digitalization offers new possibilities for business models. John Cate, commercial director for Surface Chemistry at Akzo Nobel says, “We’ve been driving digitalization across our entire business. It’s all about efficiency and optimization. The digital world delivers more comprehensible and actionable data than we have ever had before. By replacing gut-feeling with comprehensive, realtime data, we are able to make better decisions…"
+http://www.chemengonline.com/digital-transformation-cpi/?printmode=1
+
+DIGITAL SUPPLY CHAIN
+Toyota, Merck Join Ethereum Group to Build Blockchain Network. An effort to transform how businesses work by using blockchain technology added new members from multiple industries as Toyota Motor Corp., Merck KGaA, State Street Corp. and other companies joined industry group the Enterprise Ethereum Alliance. They join existing EEA members JPMorgan Chase & Co., BP LP, Microsoft Corp., International Business Machines Corp. and ING Groep NV that are all trying to determine if shared databases recorded on the ethereum blockchain can cut costs by speeding up financial transactions or ensuring the efficiency of a supply chain. https://www.bloomberg.com/news/articles/2017-05-22/toyota-merck-join-ethereum-group-to-build-blockchain-network
+
+PLATFORMS AND STARTUPS
+
+DIGITAL SUPPLY CHAIN
+PwC backs chinese blockchain-powered supply chain startup VeChain. VeChain, which was launched in November 2016, is an enterprise software designed to create, manage, maintain and update shared data about products in the supply chain. PwC’s incubator program will help VeChain accelerate its deployment in Hong Kong and South East Asia, as well as offer the blockchain startup strategic advice.
+https://www.financemagnates.com/cryptocurrency/innovation/pwc-backs-chinese-blockchain-powered-supply-chain-startup-vechain/
+
+INDUSTRY 4.0
+PTC doubles down on the IIoT. Software company PTC released ThingWorx 8, the latest version of its industrial IoT software platform that lets manufacturers connect and monitor equipment with ease. ThingWorx 8 offers expanded remote inspection capabilities, including via augmented reality (AR), as well as deeper cloud support through integration for Amazon Web Services (AWS) IoT and Microsoft Azure IoT, though the latter is still in beta. At the same time, the firm released three free manufacturing-related applications that anyone can download and install for free.
+http://www.businessinsider.de/ptc-doubles-down-on-the-iiot-2017-5
+
+DIGITAL SUPPLY CHAIN
+Using IoT to solve the problems of the freight industry. Honeywell last week announced a new “Connected Freight” solution that gives shippers and logistics companies unprecedented ability to monitor shipments of high-value and perishable goods, helping prevent costly damage and loss. The new solution, developed in collaboration with Intel and third-party logistics companies, provides real-time information about the location and condition of critical freight while in transit. Real-time shipment information is critical, for example, when shipping perishables and goods that require uninterrupted refrigeration, such as pharmaceuticals, or high-value equipment that is sensitive to vibration or shock.
+http://readwrite.com/2017/05/23/smart-solutions-iot-problems-facing-freight-industry-il1/
+
+RESEARCH AND INSIGHTS
+
+CUSTOMER EXPERIENCE
+Anatomy of a managed marketplace. Managed marketplaces (also known as end-to-end or full-stack marketplaces) have been one of the hottest categories of venture investment over the past several years. Recent examples of high-flying managed marketplaces include The RealReal, Opendoor, Beepi, Luxe and thredUP, which have collectively raised nearly a billion dollars. They garner a lot of press because the consumer experiences are often radically different than what’s previously been available in the market.
+https://techcrunch.com/2017/05/25/anatomy-of-a-managed-marketplace/
+
+DIGITAL SUPPLY CHAIN
+How a digitized supply chain can give you a competitive edge. The supply chain has come a long way since the days it functioned mainly as a tool for resource management, logistics and optimization. Today’s digital technologies enable the supply chain to attain situational awareness and context-sensitive decision making. In this way, it becomes customer-driven, personalized, agile and responsive. This digitized supply chain not only increases efficiencies but also leads to improved customer experience and revenue growth.
+https://www.forbes.com/sites/forbesinsights/2017/05/25/how-a-digitized-supply-chain-can-give-you-a-competitive-edge/#1916ec8f316a
+
+CHEMICAL DISTRIBUTION
+New test method aims to predict allergenic potency of chemicals. Researchers at Lund University in Sweden have developed a method which determines not only whether a chemical or substance is allergenic, but also how strong its potential for causing hypersensitivity is. This will aid in the establishment of so-called threshold values -- or how much of a substance is safe to use in a product. Until now, the only way of achieving similar results has been through animal testing.
+https://www.sciencedaily.com/releases/2017/05/170529090528.htm
+
+CUSTOMER EXPERIENCE
+B2B: Secrets to big customer partnerships. Sluggish growth in the global economy continues to squeeze companies of all shapes and sizes, causing many of them to cut costs in business-to-business (B2B) supplier relationships. Leaders seeking to slash their budgets often review large-dollar relationships first, hoping to use their buying power as leverage for lower prices or more favorable terms.
+http://www.gallup.com/businessjournal/210965/b2b-secrets-big-customer-partnerships.aspx
+
+EDITION 6 2.6.2017-15.6.2017
+CORPORATE INNOVATION
+
+DIGITAL SUPPLY CHAIN
+Honeywell to boost industrial cybersecurity portfolio with Nextnine acquisition. Honeywell announced that it has signed a definitive agreement to purchase Nextnine, a privately held provider of security management solutions and technologies for industrial cybersecurity. The addition of Nextnine’s industry-leading security solutions and secure remote service capabilities will enhance the Company’s existing range of cybersecurity technologies and significantly increase Honeywell’s Connected Plant cybersecurity customer base.
+http://www.chemengonline.com/honeywell-to-boost-industrial-cybersecurity-portfolio-with-nextnine-acquisition/?printmode=1
+
+CHEMICAL DISTRIBUTION
+The next wave of innovation in the chemicals industry. The world is potentially on the brink of an age of new powerful materials, ushered in by innovation in the chemicals industry. But to be central players in this story, today’s incumbent chemicals companies will need some vital prerequisites: restructuring of their product portfolios, successful exploitation of digital technologies, and rewriting business models to generate higher returns on their investment in innovation.
+https://www.strategy-business.com/article/The-Next-Wave-of-Innovation-in-the-Chemicals-Industry?gko=e6289
+
+INDUSTRY 4.0
+GE begins testing drones to inspect refineries, factories. GE has begun testing autonomous drones and robotic "crawlers" to inspect refineries, factories, railroads and other industrial equipment with an eye on capturing a bigger slice of the $40 billion companies around the globe spend annually on inspections. In trials with customers, aerial drones and robots are able to move around and inside remote or dangerous facilities while photographing corrosion or taking temperature, vibration or gas readings that can be analyzed by computer algorithms and artificial intelligence, Alex Tepper, head of business development at Avitas Systems, a startup GE formed for this business, told Reuters.
+http://www.reuters.com/article/us-ge-drones-idUSKBN1940I3?il=0
+
+PLATFORMS AND STARTUPS
+
+INDUSTRY 4.0
+MIT-born Tulip raises $13m for apps to power the industrial internet of things. Tulip Interfaces Inc., an MIT-born startup that focuses on software to power the industrial Internet of Things, has raised $13 million in a Series A round led by New Enterprise Associates...Tulip's "Manufacturing App Platform" helps industrial firms build applications that make data from internet-connected equipment available and useful to workers on factory floors. The company says it has dozens of customers in industries like pharmaceuticals, aerospace and medical devices. [The platform was previously implemented at Merck  to help train newly hired operators, leading to a saving of 53% in training costs.]
+http://www.bizjournals.com/boston/news/2017/06/06/mit-born-tulip-raises-13m-for-apps-to-power-the.html
+
+CUSTOMER EXPERIENCE
+SAP Ariba and Mercateo announce "game-changing" spot buy partnership. SAP Ariba and Mercateo have announced a new partnership which will see the companies combine expertise and resources in what is being described as a “game changer” for the spot-buying market. Combating B2B tail spend is a challenge for all companies with cross-border trade in Europe presenting its own hurdles, particularly when it comes to invoicing. SAP Ariba’s Tony Alvarez admitted as much and says that Mercateo’s Unite, which is a neutral platform allowing sellers to put up content to show buyers, made it a no-brainer to team up with the German company.
+
+http://www.supplychaindigital.com/procurement/sap-ariba-and-mercateo-announce-game-changing-spot-buy-partnership
+
+INDUSTRY 4.0
+Armis launches from stealth to eliminate IoT security blind spot for enterprises. Armis, the enterprise IoT security company, launched from stealth today with $17 million in funding from Sequoia Capital and Tenaya Capital. Armis is the only technology platform that lets enterprises see and control compromised and unmanaged devices and rogue networks accessing their systems, effectively eliminating the IoT security blind spot that exists in all businesses today. "Enterprise security has a huge blind spot," said Yevgeny Dibrov, CEO and co-founder of Armis. "The recent botnet attacks like Mirai, Hajime, and Persirai show how new IoT devices are being exploited and attacked. The fact is you cannot put an agent on most of the devices in an organization today, which means we need a new approach. We built Armis to give enterprises complete visibility into all devices in their environment without requiring an agent. We can stop devices from compromising corporate assets, regardless of whether those devices are managed by IT."
+http://www.prnewswire.com/news-releases/armis-launches-from-stealth-to-eliminate-iot-security-blind-spot-for-enterprises-300469178.html
+
+RESEARCH AND INSIGHTS
+
+DIGITAL SUPPLY CHAIN
+Report: E-commerce disruption is coming for industrial distributors. While the supply chain is still considered a relationship business, new e-commerce marketplaces are making it easier to go right to the source of manufacturing for products. An example is Amazon's potential foray into pharmaceutical sales. Pharmacies typically rely on their middlemen, pharmacy benefit manager, to procure drugs from manufacturers. While Amazon is still just selling periphery products like syringes to pharmacies, the company is not shy about its ambitions to disrupt the PBM market.
+http://www.supplychaindive.com/news/distribution-model-ecommerce-supply-trends-innovation/444923/
+
+INDUSTRY 4.0
+Industry 4.0 not reaching factory floor. In a report called Beyond the hype: Separating ambition from reality in industry 4.0, KPMG says: “While many manufacturers are working towards creating the ‘factory of the future’ or digital enterprise, few have worked out how to apply those capabilities across all of the corners of their operations. Most are still experimenting with discrete pilots or trialling solutions.” The report included a number of benchmarking exercises which found that many organisations demonstrated only a low-to-medium level of maturity in key areas such as demand-driven supply chain, M2M communication, and digital twinning. However, they showed somewhat better maturity in cloud, robotics, Big Data, cybersecurity and IoT technologies.
+https://www.electronicsweekly.com/news/business/industry-4-0-not-reaching-factory-floor-2017-06/
+
+INDUSTRY 4.0
+The “Internet of Things” is way more vulnerable than you think—and not just to hackers. Not far from San Francisco International Airport, San Bruno is a quaint middle-class residential suburb, yet underground in San Bruno was a gas pipeline controlled by SCADA software that used the Internet as its communications backbone. On Sept. 9, 2010, a short circuit caused the operations room to read a valve as open when it had actually closed, spiking the readings coming from pipeline pressure sensors in different parts of the system...The accident investigation report blamed the disaster on a sub-standard segment of pipe and technical errors; there was no suggestion that the software error was intentional, no indication that malicious actors were involved. “But that’s just the point,” Joe Weiss argues. “The Internet of Things introduces new vulnerabilities even without malicious actors.”
+https://qz.com/1000272/its-not-just-the-nhs-in-the-internet-of-things-everything-is-more-hackable-than-you-think/
+
+
+
+
+EDITION 7 16.6.2017 - 29.6.2017
+
+CORPORATE INNOVATION
+
+
+INDUSTRY 4.0
+General Electric builds an AI workforce. Fifteen years ago, GE’s machine operators and technicians monitored its aircraft engines, locomotives, and gas turbines by listening to their clanks and whirs and checking their gauges. Today, the company uses AI to do the equivalent, even predicting failures in advance. By marshaling this technology, GE hopes to become one of the world’s top software providers by 2020, a quest that amped up in 2011 with a $1 billion initiative to collect and analyze sensor data from machines. Creating smarter models via AI is the next step in the company’s strategy—one that it hopes will give it an advantage over longtime rivals like Siemens and software giants, such as IBM, that are now expanding into industrial analytics.
+https://www.technologyreview.com/s/607962/general-electric-builds-an-ai-workforce/
+
+CHEMICAL DISTRIBUTION
+Immer mehr Firmen setzen auf den Digital-Chef. Kein Unternehmen produziert heute noch Waren ohne die Hilfe von IT-Systemen. Auch Dienstleistungen sind ohne Computer und Software undenkbar. Doch die Digitalisierung verändert nicht nur Firmen und Berufsfelder, sie schafft auch neue Jobs in der Führungsspitze: den Chief Digital Officer (CDO). Mit diesem Amt ist die Koordination aller Digitalisierungsprojekte gemeint. Bei der Bahn besetzt seit dem 1. April Stefan Stroh diese Funktion. Der Essener Chemiekonzern Evonik hat sogar eigens eine Tochtergesellschaft für die digitale Zukunft gegründet. Chef der Evonik Digital GmbH ist Henrik Hahn, der zugleich als CDO im Konzern alle Digitalisierungsaktivitäten managt. Aufgabe der 20 Digitalexperten ist es, schnell und mit viel Freiraum Ideen, vor allem ungewöhnliche, zu entwickeln – und umzusetzen.
+http://www.handelsblatt.com/unternehmen/management/chief-digital-officer-immer-mehr-firmen-setzen-auf-den-digital-chef/19960872.html
+
+DIGITAL SUPPLY CHAIN
+The big-time benefits of a centralized data analytics team. If data is the new oil, most companies are struggling not to drown in it. But not Micron Technology. The Boise-based chipmaker has created an early blueprint for what experts are calling the factory of the future, one almost entirely automated with software that analyzes data about products as well as the tools used to make them. "We have tons of data coming out of the machines on our factory floor, from our supply-chain network and other areas, so there is a competitive advantage to get to predictive and prescriptive analytics," says Micron CIO Trevor Schulze, who created a team that harnesses data and analytics in search of top-line growth.
+http://www.cio.com/article/3203364/analytics/the-big-time-benefits-of-a-centralized-data-analytics-team.html
+
+
+DIGITAL SUPPLY CHAIN
+Fleet management tracking provider Samsara raises $40M. Samsara, is working on just those kinds of sensors and products to keep those fleets operating smoothly. The startup creates GPS trackers and sensors — such as ones that track temperature — and feeds back that data to fleet managers to make sure everything is running well. Samsara today said it has raised $40 million in financing at a round that values the company at more than $530 million. The round was led by General Catalyst, with Andreessen Horowitz participating. As part of this round, General Catalyst’s Hemant Taneja will be joining the company’s board.
+https://techcrunch.com/2017/06/21/fleet-management-tracking-provider-samsara-raises-40m/
+
+INDUSTRY 4.0
+Augury secures $17 million series B funding round to power the future of IIoT
+Augury, an IIoT technology company, today announced that it has closed a $17 million Series B funding round co-led by Eclipse Ventures and Munich Re / HSB Ventures, the venture arm of Hartford Steam Boiler and Munich Re. Augury will use the funding to strengthen OEM relationships, develop strategic partnerships and further establish itself as the leader in mechanical diagnostics.
+http://www.businesswire.com/news/home/20170619005161/en/Augury-Secures-17-Million-Series-Funding-Power
+
+CHEMICAL DISTRIBUTION
+ChemicalInfo announces joint partnership with Molbase.com. ChemicalInfo, providers of the most comprehensive online databases for chemical and pharmaceutical companies and those who do business with them, jointly announces a partnership with MOLBASE.COM, the world's leading chemical B2B platform, serving the global chemical, pharmaceutical, new materials and other industries. The partnership allows ChemicalInfo Directory of World Chemical Producers (DWCP) subscribers to view MOLBASE.COM Active Field Verified Suppliers within the DWCP search results along with a direct link to the respective e-commerce supplier page on MOLBASE.COM.
+http://www.prnewswire.com/news-releases/chemicalinfo-announces-joint-partnership-with-molbasecom-300478983.html
+
+
+RESEARCH
+
+
+CHEMICAL DISTRIBUTION
+Machine learning approach could aid the design of industrial processes for drug manufacturing. When organic chemists identify a useful chemical compound—a new drug, for instance—it's up to chemical engineers to determine how to mass-produce it. There could be 100 different sequences of reactions that yield the same end product. But some of them use cheaper reagents and lower temperatures than others, and perhaps most importantly, some are much easier to run continuously, with technicians occasionally topping up reagents in different reaction chambers. Historically, determining the most efficient and cost-effective way to produce a given molecule has been as much art as science. But MIT researchers are trying to put this process on a more secure empirical footing, with a computer system that's trained on thousands of examples of experimental reactions and that learns to predict what a reaction's major products will be. https://phys.org/news/2017-06-machine-approach-aid-industrial-drug.html
+
+INDUSTRY 4.0
+Digital twinning explained. Digital twinning, the mapping of a physical asset to a digital platform, is one of the latest technologies to emerge from Industry 4.0. It uses data from sensors on the physical asset to analyse its efficiency, condition and real-time status. Up to 85 per cent of internet of things platforms will contain some form of this by 2020, according to Orbis Research.
+https://www.raconteur.net/business/digital-twinning-explained
+
+
+CHEMICAL DISTRIBUTION
+Deployment of digital infrastructure in chemical plants transforms industry. Recent research from Frost & Sullivan finds that chemical manufacturers' shift towards digital plants will facilitate the formulation of robust strategic plans and goals through improved visibility and accessibility of the business operations across the chemical value chain. Market majors such as BASF, Dow Chemicals, DuPont, Evonik, Clariant and Akzo-Nobel are leveraging IIoT-based technologies to achieve higher business growth and explore new revenue streams through product innovation such as smart chemical products.
+http://www.prnewswire.com/news-releases/deployment-of-digital-infrastructure-in-chemical-plants-transforms-industry-300477044.html
+
+INDUSTRY 4.0
+The industrial robotics market will nearly triple in less than 10 years. A new generation of manufacturing robots is emerging that is more collaborative, smaller and more perceptive than traditional machinery. Collaborative robots, which Loup projects will account for 34 percent of the industrial robots sold by 2025, are designed to work safely with and alongside people in factories. In 2016, collaborative robots only represented 3 percent of industrial robots sold. These robots are smaller and have more sensors, which help them react faster and with more intelligence when approaching another object or a human, so as not to apply too much force and stop operating when appropriate.
+https://www.recode.net/2017/6/22/15763106/industrial-robotics-market-triple-ten-years-collaborative-robots
+
+
+
+EDITION 8 30.6.2017 - 13.7.2017
+CORPORATE INNOVATION
+CHEMICAL DISTRIBUTION
+Evonik invests in digital change
+The company is setting aside EUR100 million for the topic of digitalisation and is also entering into a strategic partnership with IBM and the University of Duisburg-Essen. "For us as a specialty chemicals company, digitalisation brings with it a world of possibilities. Now it’s about identifying them, testing them out, and being able to put them to good use. This is why we took this initiative.” explains Christian Kullmann, chairman of the Executive Board of Evonik Industries AG.
+http://www.european-coatings.com/Markets-companies/Raw-materials-market/Evonik-invests-in-digital-change
+
+CHEMICAL DISTRIBUTION
+Akzo Nobel makes double acquisition
+Akzo Nobel has announced the acquisition of UK-based Flexcrete Technologies and an agreement to acquire French manufacturer Disa Technology (Disatech). The deals will further strengthen Akzo Nobel’s global leadership position in supplying innovative industrial coatings and aerospace and automotive coatings. Commenting on the agreements, Akzo Nobel CEO Ton Büchner said: "Both acquisitions support our strategy of investing in growth and innovation and are strongly aligned with our growth strategy. They will expand our existing product and service offering, enabling us to deliver significant benefits to our customers. These deals also offer us great opportunities to pursue further coatings innovations in a number of our core markets.”
+http://www.european-coatings.com/Markets-companies/Coatings-market/Akzo-Nobel-makes-double-acquisition
+
+INDUSTRY 4.0
+BASF promotes digitalisation in R&D worldwide
+BASF's strategic goal is to decisively take advantage of the enormous opportunities that digitalisation offers along the entire value chain. “With the increased use of digital technologies in R&D, we are strengthening BASF’s position as the world’s most innovative company in the chemical industry,” said Dr Martin Brudermüller, vice chairman, board of executive directors, and chief technology officer, BASF SE. In particular, the new supercomputer will enable BASF experts to very efficiently investigate complex questions and it will further shorten the time it takes to launch new products, according to Brudermüller. “We will thus be even better able to meet our customers’ demands for tailor-made innovations based on chemistry,” added Brudermüller.
+http://www.arabianoilandgas.com/article-17506-basf-promotes-digitalisation-in-rd-worldwide/
+
+
+PLATFORMS AND STARTUPS
+DIGITAL SUPPLY CHAIN
+Kemira acquires Aqsens’ liquid fingerprinting technology
+Finnish chemical industry group Kemira has acquired liquid fingerprinting technology for qualitative and quantitative liquid analyses from Helsinki-based start-up company Aqsens. With this acquisition, Kemira expects to improve its capabilities to provide smart chemical monitoring tools for its clientele. The technology leverages the enhanced time resolved fluorescence (E-TRF) method, which will allow monitoring high-sensitivity and selectivity on various liquid samples. Both have not revealed financial details of the transaction. Kemira Industry & Water president Antti Salminen said: “We look forward to develop this technology further to become a vital part of Kemira KemConnect process management package in multiple applications.”
+http://www.chemicals-technology.com/news/newskemira-acquires-aqsens-liquid-fingerprinting-technology-5857662
+
+
+DIGITAL SUPPLY CHAIN
+Startup raises $800,000 to launch ‘blockchain’ food supply chain transparency service
+UK tech startup Provenance, a digital platform aiming to enable brands and retailers to bring integrity and transparency to their supply chains, has raised $800,000 in funding from investors. Following an international pilot tracking tuna through Southeast Asian supply chains, and a pilot project with the world's largest consumer cooperative to track fresh produce from origin to supermarket, Provenance has secured the funds in a private investment to complement ongoing grant funding and enable a market launch. The company will use its funding to “launch a new standard for consumer trust in the food sector with its blockchain-backed solution”, it said.
+https://www.undercurrentnews.com/2017/07/11/startup-raises-800000-to-launch-blockchain-food-supply-chain-transparency-service/
+
+INDUSTRY 4.0
+Sigma Labs to link Industry 4.0 to additive manufacturing software solution via OXYS Corp partnership
+Quality assurance software developer, Sigma Labs has announced the signing of a Technology Development Agreement (TDA) with OXYS Corporation, which will impact its PrintRite3D INSPECT program. OXYS Corp is a technology company, based in Cambridge, MA, operating within the Industry 4.0 market. Under the TDA, the two companies will first concentrate on a project to bring an architecture platform on the INSPECT software. Sigma Labs hopes this platform will enable miniaturisation of the hardware/ software integration, moving it towards board-level integration, and also expand its PrintRite3D brand of software solutions to the Smart Factory and Digital Enterprise, including polymer-based 3D printing.
+http://www.tctmagazine.com/3D-software-news/sigma-labs-industry-4.0-additive-manufacturing-software/
+
+RESEARCH AND INSIGHTS
+CHEMICAL DISTRIBUTION
+Chemical groups gear up for electric car revolution
+An industrial transformation is underway. The world’s leading companies that for decades have made catalysts that cut harmful and toxic emissions in vehicle exhausts are switching focus. Their aim: to become key players in powering the electric cars of the future. The big three groups in the area — Umicore of Belgium, UK-listed Johnson Matthey and German chemicals giant BASF — are now preparing for the eventual decline of the traditional internal combustion engines that today they help to filter.
+https://www.ft.com/content/0fa0162e-4d30-11e7-919a-1e14ce4af89b?mhq5j=e3
+
+INDUSTRY 4.0
+Industry 4.0: automated connectivity
+Web-connected manufacturing processes based on advanced automation and robotics, delivering unparalleled levels of productivity, quality, and efficiency—and opening the door to wholly new business models, such as servitisation, and build-to-order. The challenge lies making it happen—the details of getting from where businesses are today, to a future characterised by digital manufacturing and high levels of automation. And it’s a journey that affects not just the factory floor, but the broader business and the supply chain beyond it. Because Industry 4.0 isn’t just a different approach to manufacturing, it’s also an entirely new take on supply chain management.
+http://www.engineerlive.com/content/industry-40-automated-connectivity
+
+INDUSTRY 4.0
+Bringing the industrial internet of things to fluid power
+Without a doubt, the biggest news in manufacturing for the decade is the rapid proliferation of low-cost sensing and computer processing being attached to all types of industrial equipment—everything from connectors, hose and tubing to pumps, motors, actuators and filters. In fluid power systems, the line between actuator and sensor is becoming increasingly blurred.Traditionally, solenoid-operated valves were powered by simple contactors in an output card; today, more of them are on the network and have built-in diagnostic sensing to monitor temperature, voltage, current, and even cycle counts. The massive amount of data these sensors produce creates an equally massive opportunity to transform the way factory managers operate and maintain industrial equipment.
+http://www.hydraulicspneumatics.com/hydraulic-valves/bringing-industrial-internet-things-fluid-power
+
+CUSTOMER EXPERIENCE
+Keeping the Human Element in Digital Customer Experience
+Time is the new currency for your customers who are looking for painless and informed solutions to their issues. We are also starting, growing and running companies in an "attention economy," which is defined by the view that human attention is a scarce commodity. By 2018, according to research from Gartner, more than 100 out of the 500 largest global businesses will have implemented video chat. Digital transformation does not mean that Twitter avatars and chatbots (although they are driven by increasingly intelligent knowledge bases) must fully take the place of actual humans speaking to other humans, even for companies that may have millions of users
+https://www.entrepreneur.com/article/295567
+
+
+EDITION 9 14.7.2017 - 27.7.2017
+
+CORPORATE INNOVATION
+DIGITAL SUPPLY CHAIN
+Thyssenkrupp introduces 'toii' platform to link machines.
+Germany-based Thyssenkrupp has introduced the Industrial Internet of Things (IIoT) platform ‘toii’, which is an in-house development that connects machines of different makes and generations. Using 'toii' all machines can communicate with each other. Due to predictive maintenance the platform is also supposed to forecast the necessity of machine services in the future, said a statement from the company.
+https://www.tradearabia.com/news/IND_328070.html
+
+CHEMICAL DISTRIBUTION
+DuPont Pioneer launches open innovation website.
+DuPont Pioneer today announced the launch of a new component of its long-standing innovation strategy. A website (openinnovation.pioneer.com) dedicated to connecting third-party innovators with DuPont Pioneer scientists is now available and focused on five strategic areas – trait discovery, plant breeding, enabling technologies, biologicals and digital solutions. “DuPont Pioneer is building on its long history of collaboration to advance science-based customer solutions by enhancing its open innovation strategy,” said Neal Gutterson, vice president, Research and Development for DuPont Pioneer. “Through this broad-based approach, we make available our resources to collaborators and develop the most innovative technologies in agriculture, then apply our production scale and route to market to rapidly deploy novel solutions to farmers around the world.”
+http://www.prweb.com/releases/dupont-pioneer-seed/open-innovation-website/prweb14514247.htm
+
+DIGITAL SUPPLY CHAIN
+GE, Maersk Drilling step up digitization pact.
+GE’s SeaStream Insight Marine Asset Performance Management (APM) solution will be implemented to enable more consistent and predictable drilling performances on nine selected units across Maersk Drilling’s fleet, ensuring an accelerated basis for time to value of the digital transformation.“Through our partnership with GE, we are not only creating value for our two companies, but the industry as a whole. We believe that the systematic adoption of reliability-centered maintenance analysis and digitization will be a step change in our industry, and Maersk Drilling plans to lead the way. To do that, we must acknowledge the need to break down the industry silos and work collaboratively across the value chain, as the sharing of data will enable further digital breakthroughs, which can enhance efficiency and remove waste across the supply chain,” says Jesper Hansen, CIO of Maersk Drilling. “By offering new efficiency services to our customers, Maersk Drilling has taken the next step in digitalizing the offshore drilling industry. Together with a number of relevant industry partners, we are now executing on our ambition to offer oil majors the world’s first digitally optimized drilling operation.”
+http://www.oedigital.com/component/k2/item/15827-ge-maersk-drilling-step-up-digitization-pact
+
+CHEMICAL DISTRIBUTION
+BASF SE selects Icertis to accelerate contracting velocity, ensure global compliance.
+This forward-looking initiative will help accelerate contracting velocity across BASF's world-wide sales and corporate teams, increase visibility through a single easy-to-use, enterprise-wide contracting system, and ensure compliance. "At BASF we are committed, through science and innovation, to enabling our customers to meet the current and future needs of society," said Matthew Lepore, Senior Vice President, General Counsel and Chief Compliance Officer of BASF Corporation and sponsor of the project. "The Icertis platform's ease of use and intelligent insights will help us optimize the value of our commercial relationships, increase contracting efficiencies, and help reduce contractual risk." The fast pace of the chemical business meant that BASF wanted to transform its contracting processes to serve the company's customers more efficiently.
+http://www.prnewswire.com/news-releases/basf-se-selects-icertis-to-accelerate-contracting-velocity-ensure-global-compliance-300489397.html
+
+
+
+PLATFORMS AND STARTUPS
+CHEMICAL DISTRIBUTION
+Cloud platform advances drug research.
+A pioneering digital platform launched today will help accelerate the development of breakthrough drugs.
+Global Intellectual Property Analytics company, PatSnap, has announced the new Chemical by PatSnap, a Software as-a-Service (SaaS) product, is now available.It will speed up vital research by giving intellectual property (IP) stakeholders – leading science-focussed organisations – access to a comprehensive database of 121 million patents and 114 million ‘chemical structures, clinical trial information, regulatory details, and toxicity data’. By tapping into big data via machine learning and artificial intelligence (AI) scientists and other professionals will be able to quickly confirm the credibility of their chemical development projects.
+https://www.innovatorsmag.com/cloud-platform-advances-drug-research/
+
+INDUSTRY 4.0
+IoT Startup Particle attracts $20M series B from Qualcomm, Spark Capital.
+Qualcomm Ventures and Spark Capital are investing $20 million in Internet of Things (IoT) startup Particle. The company, which makes what it calls a “full-stack” IoT platform, will use the funding to grow globally and support a wider array of hardware. Zachary Crockett, CTO of Particle, explained that the company differentiates itself from other IoT platforms by offering a complete IoT system. That means, it not only provides the cloud platform, called Particle Cloud, but also the IoT hardware, the firmware for the devices, and the connectivity. “We want to be the one-stop shop for the customer,” he said.
+https://www.sdxcentral.com/articles/news/iot-startup-particle-attracts-20m-series-b-qualcomm-spark-capital/2017/07/
+
+INDUSTRY 4.0
+Google Glass 2.0 is a startling second act.
+Within three years, Alphabet (the parent company of Google and its sister company, the “moonshot factory” called X) had given up Glass for good—or so people assumed. What they didn’t know was that Alphabet was commissioning a small group to develop a version for the workplace. The team lives in Alphabet's X division, where Glass was first developed as a passion project of Google cofounder Sergey Brin. Now the focus was on making a practical workplace tool that saves time and money. Announced today, it is called Glass Enterprise Edition.
+https://www.wired.com/story/google-glass-2-is-here/
+
+
+RESEARCH AND INSIGHTS
+CUSTOMER EXPERIENCE
+Procurement: looking ahead to a digital future.
+Procurement is a business function that has traditionally been slow to take advantage of technology. It has tended towards a savings mentality, choosing to focus on reactive cost-cutting, rather than being proactive and boxing clever with predictive analytics to monitor spend and add value...Technology has often been viewed with much suspicion by procurement departments. The fear was that automation such as e-procurement would bring about a race to the bottom, focusing on price at the expense of other factors in the supply chain – and at the expense of the employees in procurement.
+https://www.raconteur.net/business/procurement-looking-ahead-to-a-digital-future
+
+INDUSTRY 4.0
+3D Printed sensors could offer earlier warning of wildfires and chemical leaks.
+A forest fire can spread unbelievably fast, which means that early detection is critical. The current systems in place for detecting the spread of forest fires, however, aren’t perfect. Watch towers, satellites and costly fixed sensors are the standard at the moment, but a group of researchers from King Abdullah University of Science and Technology (KAUST) have developed a new, better method that involves a series of inexpensive, disposable 3D printed sensors wirelessly linked to a few fixed nodes. The system is designed to detect not only fires, but industrial chemical leaks that can pose a threat to public health. The sensors can detect heat and lowered humidity, which signify a forest fire, as well as the toxic gas hydrogen sulfide. Dispersed over a large area, the sensors would communicate with a few larger, fixed nodes, wirelessly transmitting the data in a lifesaving Internet of Things application.
+https://3dprint.com/181946/3d-printed-sensors-wildfires/
+
+EDITION 10 28.7.2017 - 10.8.2017
+CORPORATE INNOVATION
+INDUSTRY 4.0
+Smart factory: GE Aviation. What GE Aviation calls its “automation journey” took flight in the late 1990s as the Japanese principles of kaizen (continuous improvement) and lean (waste reduction) took root in North American manufacturing. For Bromont, robots also help to solve critical health and safety problems, especially for workers sweltering in repetitive and hazardous forging processes.“We did a lot of kaizen activities, we leaned out the processes, and it became evident that we had opportunities for automation,” Ouellette explained. “And then people started asking for robots. That was the great thing. They said, ‘Have you thought of putting a robot here?’ It has just snowballed since the late ’90s.” Today, the facility features over 150 robots performing a variety of forging, forming, testing and inspection processes. And poor safety ratings, which hampered the company’s performance two decades ago, have been replaced by best-in-class practices.
+https://www.skiesmag.com/features/smart-factory-ge-aviation/
+
+INDUSTRY 4.0
+Jeil Pharmaceuticals launches ‘global smart factory’. Jeil제일약품(CEO Sung Suk-jae성석제) invested about 40 billion won into the construction of the smart factory since 2015, a three-floor building with a basement on a total floor space of 13,121 square meters. There is an engine room and a warehouse in the basement, packing lines on the first floor, production lines on the second floor, and machine room on the third floor.The smart factory will monitor and adjust all production, logistics, and utility processes in real-time with the introduction of BMS, EMS, and WMS, which integrate the next-generation industrial revolution. The company also equipped the factory with cutting-edge security systems from Germany to make it an intelligent facility as well as a closed system to minimize cross-contamination
+http://www.koreabiomed.com/news/articleView.html?idxno=1039
+
+DIGITAL SUPPLY CHAIN
+Covestro: Passion for polymers. Covestro has been awarded “Preferred Partner” for its outstanding supply and service in May this year by Flex Mechanical Technology Solutions, the world’s largest contract manufacturers. Outlining the importance of the company’s supply chain operations, Jens Kaatze, SVP, Head of Global Product Management, Polycarbonates, says: “Supply chain is hugely important in our business, you need to provide the lowest cost of service to be competitive. Streamlining the supply chain with a reliable global network that we can tap into is crucial. This advantage enables us to serve our customers to the best of our ability wherever they are located while at the same time maintaining cost and carbon footprint as low as possible."
+http://www.supplychaindigital.com/company/covestro-passion-polymers
+
+CHEMICAL DISTRIBUTION
+BASF establishes new group company to pursue opportunities in 3D printing. The focus of this venture would be on establishing and expanding the business with materials, systems solutions as well as components and services in the field of 3D printing. The company will be working closely with researches and application engineers form BASF and also external partners such as universities and potential customers, in order to develop the right solutions for a wide array of requirements. Explaining the reasons for the founding the new company, Managing Director at BASF New Business and future Managing Director of BASF 3D Printing Solutions GmbH, Volker Hammes said: "The field of 3D printing for industrial applications is highly dynamic and still emerging. This means there is a need for agile, startup-like structures with interdisciplinary teams and quick decision-making processes. Combining the customer-focused 3D printing activities in one location at a dedicated business is an important success factor."
+http://www.iol.co.za/business-report/companies/basf-establishes-new-group-company-to-pursue-opportunities-in-3d-printing-10593570
+
+CHEMICAL DISTRIBUTION
+Data science key to Monsanto improving its supply chain. Monsanto CIO Jim Swanson has outlined five key elements of Monsanto’s digital transformation: customer centricity, internal business process disruption, technology and automation, data and decision science, and leadership and change management. He views all of those facets as integral to breaking through the "clay layer" of mid-level employees, present in every organization, who may resist short-term changes in spite of long-term gain — the rank-and-file who can either inhibit digital transformation or become its greatest champions. In so doing, he asserts, IT is poised to take on its most rigorous and most critical role of "transformation agent," providing tangible and sustainable value while moving the business forward.
+http://www.cio.com/article/3214664/data-science/data-science-key-to-monsanto-improving-its-supply-chain.html
+
+PLATFORMS AND STARTUPS
+CHEMICAL DISTRIBUTION
+BASF applies blockchain to its supply chain. Supply chains are complex. They present problems. For example, how can one recognize a delivery is incomplete or damaged, even before you receive it? Start-up Quantoz – in combination with BASF and a second start-up, Ahrma – identified a ‘smart answer’ to this question. Use an intelligent pallet (from Ahrma) which provides information about its position and movement, loading status and possible impacts (like being dropped). Intelligent pallets, whether with missing or damaged parts, enable automatic reordering. By using Quantoz’s blockchain technology, the security and trust in the data integrity increases. Furthermore, this combination should offer a secure and transparent material and data flow in the future. The current work remains a pilot. If successful it will reach a broad audience for BASF is a global company.
+https://www.enterprisetimes.co.uk/2017/07/31/basf-applies-blockchain-to-its-supply-chain
+
+INDUSTRY 4.0
+GE Digital acquires startup IQP to boost Predix and help partners build iot applications. "By adding IQP to Predix Studio, our integrated workflow for rapid application development, more average industrial developers, including IT, operations and finance professionals, can now create their own IIoT applications – giving our customers the tools they need to build customized applications that make sense for their business," said Bill Ruh, CEO of GE Digital, in a statement. "This integration makes Predix Studio the only high productivity application development tool purpose built for the IIoT." GE did not disclose the terms and conditions of the deal. According to a report by Haaretz, the Boston, Mass.-based company agreed to acquire IQP for an estimated $30 million to 40 million.
+http://www.crn.com/news/internet-of-things/300089771/ge-digital-acquires-startup-iqp-to-boost-predix-and-help-partners-build-iot-applications.htm
+
+DIGITAL SUPPLY CHAIN
+Scientist.com and IndieBio create next generation innovation marketplace to accelerate early stage biotech research. Scientist.com, the world’s largest online marketplace for outsourced research services, and IndieBio, the world’s largest biotech seed accelerator, announced today a partnership to create an innovation marketplace that speeds research and development. Biotech companies participating in IndieBio’s product-directed discovery programs and a long list of accomplished IndieBio alumni can now easily collaborate with over 2,000 commercial research suppliers through the Scientist.com platform.“Our members have already had success using Scientist.com to quickly find and engage high-quality research suppliers and access new technologies,” said Jun Axup, PhD, IndieBio’s Science Director. “This new partnership with Scientist.com builds off that early success and provides additional benefits to new members as well as our extensive network of alumni companies.”
+http://www.businesswire.com/news/home/20170807005166/en/Scientist.com-IndieBio-Create-Generation-Innovation-Marketplace-Accelerate
+RESEARCH AND INSIGHTS
+INDUSTRY 4.0
+Factories of the future need AI to survive and compete. Since the industrial revolution, factories have been optimized to mass produce a few products rapidly and cheaply to satisfy global demand. “The largest inefficiency that most manufacturers face is inflexibility,” says Jim Lawton, Chief Product and Marketing Officer of Rethink Robotics, maker of collaborative industrial robots. “Traditional industrial automation requires hundreds of hours to reprogram, making it very impractical to change how the task is performed.” Catering to finicky consumers is not the only challenge confronting modern factories. Costs of production in traditionally affordable countries like China and Mexico are rising. Oil and gas industries have been hit incredibly hard by historically low oil prices, driving the need for further efficiencies and cost reduction. In virtually all factories, poor demand forecasting and capacity planning, unexpected equipment failures and downtimes, supply chain bottlenecks, and inefficient or unsafe workplace processes can lead to resource wastage, longer production periods, low yields on production inputs, and lost revenue.
+https://www.forbes.com/sites/mariyayao/2017/08/08/industrial-ai-factories-of-future/#676bf34a128e
+
+
+INDUSTRY 4.0
+Half of global manufacturers to use wearable tech by 2022. Within the next five years, fully-connected factories are expected to double, with more than one-third of those surveyed anticipating having this capability by 2022, according to a study by Zebra Technologies. Nearly 88% expect corresponding revenue growth, while 44% expect that growth to be at least 5% or higher. A full 50% cite gaining flexibility in order to adjust to fluctuating market demands as a top business strategy, with connectivity improving that ability.  According to the Zebra survey behind the study, manufacturers are introducing quality checkpoints and automation more often within the production process. This is in order to prevent imperfections and errors, and to more easily identify trouble points within the course of manufacture. A connected floor will speed this process, as well as increase total production; increase the number of product variants, and increase visibility across the enterprise while decreasing the cost of production.
+http://www.supplychaindive.com/news/wearable-technology-Zebra-Technologies-2022-manufacturing/448280/
+
+
+EDITION 11 11.8.2017 - 24.8.2017
+CORPORATE INNOVATION
+INDSUTRY 4.0
+DuPont to buy up farm software firm Granular. A San Francisco company providing farm management software to growers in four provinces and about three dozen states is poised to join the digital arm of DuPont and Dow’s merged agribusiness. Granular, set up in 2014, now serves growers covering nearly two million acres in the U.S., Canada and Australia. Its products include its Farm Management Software (FMS) line and, in the U.S., AcreValue.com, which it bills as “the leading digital marketplace for farmland real estate.” DuPont executive vice-president James Collins, in a release, described the deal for Granular as “an important component of our commitment to leading and shaping the ag tech market.” Specifically, DuPont said Wednesday it’s creating a “digital agriculture ecosystem to support information sharing, services and commerce.” Buying Granular, the company said, “will enable the business to connect growers, analytics and public and private data to advance our vision for a digitally connected, more sustainable agriculture industry.”
+https://www.canadiancattlemen.ca/daily/dupont-to-buy-up-farm-software-firm-granular
+
+INDUSTRY 4.0
+GE Digital creates program to ensure return on smart manufacturing. We’ve all heard the stories of manufacturers who purchase advanced technology only to have it sit in the factory-floor corner undeployed because nobody has the time or wherewithal to implement the tools and make sure they work. GE Digital recognized this issue and created a service – Acceleration Plans – to make sure manufacturers get the results they paid for. GE developed the program to ensure the effectiveness of the deployment of advanced manufacturing tools. The idea was to make sure customers get the value from their digital investment as soon as possible while also making sure they achieve outcomes that are critical to their business. “We are seeing difficulty in adoption,” Katie Bianchi, chief revenue officer for global support at GE Digital, told Design News.
+https://www.designnews.com/automation-motion-control/ge-digital-creates-program-ensure-return-on-smart-manufacturing/111678118057299
+
+INDUSTRY 4.0
+BASF continues expansion into 3D printing materials with acquisition of Innofil3D. Global chemical company BASF has been involved in 3D printing for a while now. The company is a producer of materials as well as chemicals, and as the 3D printing materials industry is such a fast-growing one, BASF has wisely decided to put significant resources and effort into the development of 3D printing materials. The company took a big stride forward into the 3D printing industry when it became one of HP’s materials development partners, and additional partnerships with companies such as Essentium have placed it in a position to become a leader in next-generation 3D printing materials. Following the announcement of the creation of BASF 3D Printing Solutions, today BASF New Business announced that it has acquired Innofil3D, a Dutch filament manufacturer that produces a wide range of standard and specialty materials for FDM 3D printing.
+https://3dprint.com/184638/basf-acquires-innofil3d/
+
+PLATFORMS AND STARTUPS
+CHEMICAL DISTRIBUTION
+OpenEye announces Pfizer to adopt Orion cloud platform for computational chemistry. OpenEye Scientific Software, Inc., an innovative developer of molecular modeling and cheminformatics solutions, today announced that it has entered into an agreement with Pfizer Inc., to provide Orion, OpenEye's new cloud platform, to the company's Medicinal Sciences division. Orion will equip chemists with all of OpenEye's software, extensive tools for data visualization and communication, useful data sources and customizable, task-oriented workflows, all in a robust, scalable, cloud environment. "We believe that Orion has the potential to revolutionize how computation is delivered to the pharmaceutical industry," said Dr. Anthony Nicholls, CEO and founder of OpenEye Scientific Software, Inc. "Orion marries the immense resource of cloud computing services, with our insights, science and tools from two decades of helping customers. It continues and expands our tradition of computing at scale, reliable, predictive science and facilitating local innovation."
+http://www.prnewswire.com/news-releases/openeye-announces-pfizer-to-adopt-orion-cloud-platform-for-computational-chemistry-300505487.html
+
+INDUSTRY 4.0
+Flutura is taking on GE in the industrial internet. The most successful [] industrial IoT startups tend to have a focus on software that grabs data from a variety of machines and tries to analyze it on premise, as opposed to the cloud. They also handle the analysis with proprietary algorithms specific to the industry they serve. The first generation of these startups focused more on the physical connections and even data normalization, but now the efforts are around analyzing the right data to produce quick insights. These startups also tend to be extremely focused on one or two industries, which is what gives them the edge when selling their software and when building their algorithms. Flutura Decision Sciences and Analytics is one of these industrial startups, which recently raised $7.5 million from Vertex Ventures and The Hive. The five-year-old Bengaluru, India-based startup tracks the physical data from the industrial equipment manufacturers’ and then uses that data to build predictive algorithms about how something as mundane as a pump will behave over time. https://staceyoniot.com/flutura-is-taking-on-ge-in-the-industrial-internet/
+
+DIGITAL SUPPLY CHAIN
+Resilinc awarded patent for supply-chain risk analytics and vulnerability maps. The USPTO has granted a patent to Resilinc Corporation for its methodology for analyzing supply chain vulnerability metrics. Those metrics include risk score and impact and presenting them via interactive maps and dashboards, and using supplier intelligence collected via a networked solution and platform. The patent and trademark office recognized Resilinc’s “publish once, share often” data collection methodology where suppliers share part level mapping once and approved customers see the parts they buy without requiring the suppliers to replicate the effort. The patent also covers interactive charts and graphs and vulnerability maps where risk exposure is analyzed and shown and can be further explored and drilled down.
+http://www.globaltrademag.com/global-logistics/resilinc-awarded-patent-supply-chain-risk-analytics-vulnerability-maps
+
+
+
+RESEARCH AND INSIGHTS
+INDUSTRY 4.0
+Edge computing: a competing view. A prominent topic lately associated with Industry 4.0 and the Industrial Internet of Things (IIoT) has been that of edge computing. As Wikipedia explains it, edge computing is “optimizing cloud computing systems by performing data processing at the edge of the network, near the source of the data.” Another term used for this is fog computing. But is this really a new concept in the field of industrial automation? And if so, what is really changing? Historically, control at the edge has been done with a programmable logic controller (PLC) or distributed control system (DCS). Considering this, until the emergence of these new terms around IIoT a few years ago, what exactly was a PLC at the edge of? A cliff? A knife? Ok, maybe field networks, yes. So, until recently, “edge” terminology didn’t even make any sense. But now, information technology (IT) networks are being connected to operation technology (OT) networks, thereby putting OT controllers at the edge—from the perspective of IT.
+https://www.automationworld.com/article/topics/industrial-internet-things/edge-computing-competing-view
+
+DIGITAL SUPPLY CHAIN
+Improving supply chains through digital transformation. Keeping supply chains in control and competitive is a key consideration for any company that sends physical products nationally or internationally. The application of digital technology presents many advantages. In a competitive market, supply chain managers seek to create net value, build a competitive infrastructure, utilize available worldwide logistics and try to meet supply with demand. This places the supply chain as central to many key performance indicators. Efficiencies and costs reductions can be gained through the adoption of digital technology. What might this digital transformation involve? There are several areas, and Digital Journal has selected five from among the most promising.  [...]
+http://www.digitaljournal.com/tech-and-science/technology/improving-supply-chains-through-digital-transformation/article/499999
+
+CUSTOMER EXPERIENCE
+B2B Customer Experience Still Requires a Human Touch. While “digital customer experiences” are obviously important, human interactions still play a vital role in customer experience delivery, particularly for B2B companies. In fact, recent research indicates that business customers highly value the human component of the customer experience. Earlier this year, KPMG Nunwood Consulting published a report discussing several important aspects of B2B customer experience. The report was based on a survey of 2,974 members of decision making units in B2B companies. Survey respondents included end Users, Influencers, and Decision Makers, and all were located in the US or the UK. Not surprisingly, the research found that customer experience plays a vital role in competitive success. Three-fourths of the survey respondents considered customer experience as a major factor in supplier choice. The research identified six “pillars” that describe the psychology of customer experience, and the report argues that the key to customer experience success is preparing for the critical “moments that matter” across a customer’s life cycle.
+http://customerthink.com/b2b-customer-experience-still-requires-a-human-touch/
+
+
+
+EDITION 12 25.8.2017 - 7.9.2017
+CORPORATE INNOVATION
+INDUSTRY 4.0
+Oracle wants to help enterprises get business results from IoT. Oracle today unveils the next phase of its strategy to offer prepackaged IoT applications to the enterprise. While other vendors are pushing a platform strategy into the Internet of Things market, Oracle believes customers are best served by out-of-the-box functionality, says Bhagat Nainani. Group Vice President, Oracle IoT Cloud: “Customers still find IoT to be hard. It’s still a bit nebulous, they don’t know where to get started. Our goal at Oracle is to make IoT easy and to focus on business outcomes.” The suite of SaaS solutions, first introduced earlier this year, is designed to be configurable using a declarative approach, with no software coding required. Oracle says its customers have said this makes the solutions two to three times faster to deploy than more custom, platform-based alternatives. There are four applications in the suite, covering asset monitoring, production monitoring, fleet monitoring and connected worker (which focuses on safety).
+http://diginomica.com/2017/08/31/oracle-wants-to-help-enterprises-get-business-results-from-iot/
+
+CHEMICAL DISTRIBUTION
+BASF and SAP bring multiple business partners together in global network for technical assets. The project's goal is to establish a fully integrated and centrally managed asset information repository, helping ensure data consistency and availability. By establishing such a single source of truth for asset information, BASF aims to further improve the efficiency of its engineering and maintenance processes throughout the asset lifecycle. "With SAP Asset Intelligence Network, we enable our customers to collaborate in a digital ecosystem to manage intelligent devices in the Internet of Things (IoT) and achieve their goals for operational excellence," said Dr. Tanja Rueckert, president, IoT and Digital Supply Chain, SAP. "Working with industry leaders like BASF, we aim to establish a network of real-time industrial asset information so that our customers and their partners can realize the full advantages of the IoT with the SAP Leonardo digital innovation system." The evaluation project is expected to run for several months. It is part of "BASF 4.0," a global project that drives the digital transformation of BASF.
+http://www.prnewswire.com/news-releases/basf-and-sap-bring-multiple-business-partners-together-in-global-network-for-technical-assets-300510406.html
+
+CHEMICAL DISTRIBUTION
+Investment in innovation pays off for DuPont's agriculture unit. DuPont has completely shifted its research and development model. The company is actually spending less on research than it did in the past. DuPont invested about $1.6 billion in research last year, down from $1.8 billion in 2015 and $2 billion in 2014. But that spending is now more targeted. DuPont has tied research spending to customer needs to ensure there is a demand for what it creates. The research and development spending of each unit is much more closely tied to their individual markets. "We've been shifting our innovation strategy inside DuPont with respect to how we develop new products," said Randal King, technology director, DuPont Electronics & Communications. "In the past, we've had more of a product push where you develop a new technology and find out who will use it. Now we've been responding to Micro trends in the market and developing new products for devices that are going to be needed to support those trends."
+http://www.delawareonline.com/story/news/2017/08/29/investment-innovation-pays-off-duponts-agriculture-unit/598910001/
+
+
+PLATFORMS AND STARTUPS
+CUSTOMER EXPERIENCE
+Can bots really deliver great customer experience? A number of brands are – quite rightly – harnessing the power of technology to streamline both their operational and strategic communications activities. But when it comes to the customer experience (CX), can bots truly satisfy expectations, or is the growing tendency to integrate AI actually putting the CX at risk? Given the impact of the customer experience on a brand’s revenue, reputation and advocacy levels, very few savvy B2B marketers would overlook the need to integrate CX objectives into their activities. But as the number of channels and touchpoints within every individual’s journey continues to rise, so too does the scale of the CX challenge. This may go some way to explaining why, unfortunately, B2B customer-experience index ratings lag significantly behind those of retail customers. After all, we continuously read about outstanding examples of B2C CX champions such as AO.com, Halifax Bank and Virgin. But B2B brands fail to receive the same level of praise.
+http://www.business2community.com/customer-experience/can-bots-really-deliver-great-customer-experience-01908907#8mIM305PfBrMED89.97
+
+
+INDUSTRY 4.0
+Dataiku raises $28m to enhance data science platform and double staff. Dataiku has announced raising $28 million in a Series B round led by Battery Ventures, with participation from FirstMark, Serena Capital, and Alven. The Series B round brings the total amount raised by the New York City-headquartered data science software company to approximately $45 million. Dataiku said the funding will be allocated across three areas: Development, marketing, and recruitment. It plans to double its headcount to 200 employees across its offices in London, New York City, and Paris over the coming months, and add connectors to deep learning frameworks to its platform. Founded in France in 2014, Dataiku offers a "collaborative" platform, called Data Science Studio (DSS), with connectors to data sources, visual data preparation, and prepackaged machine-learning algorithms. Previously data scientists would have to take historical data that tells a particular story and then train algorithms to be able to predict the future -- a process that could take weeks or months. With DDS, they can simply upload their data and select parameters, and the platform automatically trains and evaluates different machine learning models.
+http://www.zdnet.com/article/dataiku-raises-28m-to-enhance-data-science-platform-and-double-staff/
+
+CHEMICAL DISTRIBUTION
+Drones take to the skies in the chemical processing industries. There is no doubt that drones, or unmanned aerial vehicles (UAVs), hold many promising opportunities for the chemical process industries (CPI), although, as with any new technology, some challenges may arise. “We’re just starting to see some of the larger chemical manufacturers begin to use drone technology,” says Bill Erny, senior director of security, regulatory and technical affairs at the American Chemistry Council. Equipment inspection, says Erny, is currently the most promising application for drones in the CPI. “Some equipment is challenging to access, such as flare stacks, large processing vessels and things of that nature,” he explains. Some drones can actually fly inside equipment structures and execute visual inspections, or even non-destructive testing (NDT), eliminating the need for confined-space entry. Although equipment inspection is currently the most commonly seen application for drones in CPI plants, several other tasks have emerged where their use might be beneficial, including emergency response, security management, site surveys and environmental remediation.
+http://www.chemengonline.com/drones-take-cpi-skies/?printmode=1
+
+
+
+RESEARCH AND INSIGHTS
+INDUSTRY 4.0
+How machine learning enhances the value of industrial internet of things. Cloud computing has been the biggest enabler of connected devices and enterprise IoT. Cheaper storage combined with ample computing power is the key driver behind the rise of IIoT. Though it was possible to capture data from various sensors and devices, customers found it prohibitively expensive to store massive datasets. Even after sufficient storage resources were allocated, the computing horse power required to process, query and analyze these datasets was missing in the enterprise data center. Much of the available resources were allocated to data warehouses and business intelligence systems that are critical to businesses. The acceptance of cloud as an extended data center changed the equation. Industry verticals such as manufacturing, automobile, healthcare and aviation are now capturing every possible data point generated by the sensors. They are taking advantage of cloud storage, Big Data and Big Compute capabilities offered by large public cloud providers. This has been the single most important factor in accelerating IIoT adoption in enterprises.
+https://www.forbes.com/sites/janakirammsv/2017/08/27/how-machine-learning-enhances-the-value-of-industrial-internet-of-things/#5f683eb83f38
+
+
+
+INDUSTRY 4.0
+How to connect a digital, data-driven smart factory. The Industrial Internet Consortium describes a smart factory as the ability to “aggregate, analyze and act on data.” Aggregate, analyze and act are not, unfortunately, as distinct or delineated as they might seem. Aggregating data at the factory floor typically includes some analyzing and displaying, and that results in some acting by the end user. But there is still plenty to be done at the enterprise and cloud level for analyzing and acting. This blog focuses on aggregating on the factory floor. In a perfect world, an industrial facility is a new, greenfield plant built with the sensors, controllers, networks and computers required to meet the end user’s desires for information. In the real world, an old, brownfield plant is the norm. There are machines, cells of machines and processes that are not connected to anything—they are islands of production with little connectedness. Clipboards might still be used to collect data.
+https://www.automationworld.com/how-connect-digital-data-driven-smart-factory
+
+DIGITAL SUPPLY CHAIN
+Blockchain in the supply chain: too much hype. Blockchain is the technology behind Bitcoin and other crypto currencies.  Blockchain is a protocol for a digital ledger that enables proof of ownership and the transfer of ownership from one entity to another without using a trusted third party intermediary (like a bank).  The value that is transferred can also move through an extended supply chain while ensuring that what occurs at each point in the chain can be chronologically recorded. In logistics, the best known blockchain pilot program involved Maersk and IBM. It centered on creating a digital distributed ledger to create a single electronic place where all the myriad documents related to a shipment could be housed. In one projected pilot by a company called T-Mining, the blockchain will give clearance for personnel – like a truck driver – to pick up a load. One of the key advantages of blockchain is that it is much, much more secure than traditional IT solutions.
+https://www.forbes.com/sites/stevebanker/2017/09/01/blockchain-in-the-supply-chain-too-much-hype/#1a0b4ad198c8
+
+
+EDITION 13 8.9.2017 - 21.9.2017
+
+CORPORATE INNOVATION
+
+CHEMICAL DISTRIBUTION
+Digital Realty completes $8bn DuPont Fabros merger. The merger between one of the largest data center operators in the world, Digital Realty, and a major US data center operator, DuPont Fabros Technology, is complete. First announced in June, the $7.8 billion all-stock deal creates a combined company with a portfolio of 157 data centers and a market cap of $25.2 billion - making Digital Realty the world’s eighth-largest real estate investment trust (REIT) by valuation. DuPont Fabros brings with it 12 data centers in Ashburn, Virginia, Chicago and Santa Clara, as well as a development project in Toronto and land parcels in Phoenix and Oregon that are planned for development. “This highly strategic and complementary transaction further expands our product offering, and solidifies our blue-chip customer base,” Digital Realty’s CEO A. William Stein said.
+http://www.datacenterdynamics.com/content-tracks/colo-cloud/digital-realty-completes-8bn-dupont-fabros-merger/98963.fullarticle
+
+CHEMICAL DISTRIBUTION
+Growth via innovation in the chemical industry. With the dramatic, and continuous, rise of Asian R&D markets – especially in China – European companies need to fight ever harder to compete and to maintain their leading positions in innovation. BASF is thus implementing five levers to foster innovation and drive growth: globalisation of R&D, technology leadership, radical innovation, digitalisation and co-creation. To that end, the company is now operating 70 R&D sites around the world, has recently invested in a new supercomputer, and continues to work on ambitious visionary. As part of their co-creation efforts, BASF’s Academic Partnership Program – UNIQUE – incorporates 15 leading universities from around the world, including Imperial College London. The aims of the Program are to develop lasting relationships, strengthen BASF’s innovation portfolio and enable direct access to scientific expertise, new technologies and talented minds from various disciplines.
+http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/engineering/imse/newssummary/news_14-9-2017-10-48-53
+
+
+
+
+
+PLATFORMS AND STARTUPS
+
+
+INDUSTRY 4.0
+Turkish startup turned machine failure into a business model. Airways and railways have been conservative and difficult sectors for startups due to safety and security issues. But this is changing, especially when it comes to support services and maintenance. Delphisonic, a Turkish startup launched in 2015 by Ali Acur, is one of the gamechangers. The startup harnesses big IoT data to provide predictive maintenance for companies in different countries and sectors, including railways, wind turbines, and airways. Acur started working on this concept in 2012, after leaving his job as a mechanical preventive maintenance engineer at Airbus Germany. He believes that companies are willing to invest in predictive maintenance because “it can increase equipment lifetime, reduce maintenance costs and time, increase vehicle safety, and eventually save lives”.
+https://www.wamda.com/2017/09/turkish-startup-turned-machine-failure-business-model
+
+INDUSTRY 4.0
+Software AG gets smarter on IoT with Cumulocity. To fit with its new IoT-centric image, Software AG has launched an extended Cumulocity IoT technology portfolio for cloud-based IoT platform services. The German company acquired Cumulocity back in March, for its technology in networked digital device and sensor management and its application development platform. Now that this technology has been embedded in the total Software AG portfolio, Cumulocity IoT is said to offer ‘self-service’ IoT software to enable organizations to develop their own IoT applications. In terms of deployment, the Cumulocity IoT portfolio operates at the edge (for on- or near-device ‘edge’ computing), either on the cloud or in on-premise mode. This breadth is claimed by the company to allow more choice when designing, building, deploying and upgrading enterprise IoT applications and services.
+https://internetofbusiness.com/software-ag-gets-smarter-on-iot-with-cumulocity/
+
+DIGITAL SUPPLY CHAIN
+3D printing on demand startup mything awarded €2.1 million. In the ongoing quest to search for a more efficient supply chain, 3D manufacturing startup mything.com aims to connect potential customers with designers and local manufacturers to provide them with custom-made 3D printed objects. After securing €2.1 million from Vienna-based KaPA Ventures, mything is set to launch this autumn. The Mything platform is a space where designers worldwide can upload jewellery, accessories and gadget models. These can then be customised and then sent directly to a local manufacturer, who 3D prints it for the end customer. 3D printers, laser cutting technicians and product designers can all sign up free of charge; with the incentive to use Mything’s platform for market exposure and a potential revenue stream.
+https://3dprintingindustry.com/news/austrian-design-3d-printing-given-million-120965/
+
+
+
+RESEARCH AND INSIGHTS
+
+
+
+
+CHEMICAL DISTRIBUTION
+Quantum computing goes beyond hydrogen and helium. Quantum computers could be the future of computational chemistry if they can calculate properties of molecules that conventional digital computers can’t handle. Today’s quantum systems are a long way from reaching that goal. But a quantum computer at IBM just passed a milestone: It performed the first calculations involving molecules containing more than just hydrogen and helium. Digital computers crunch numbers to describe properties such as a molecule’s ground-state energy by using the Schrödinger equation to calculate mathematical parameters called wave functions. However, digital computers can solve such problems exactly only for elementary molecules because of the great complexity of the many interactions of the multiple subatomic particles found in larger compounds.
+http://cen.acs.org/articles/95/i37/Quantum-computing-goes-beyond-hydrogen-and-helium.html
+
+INDUSTRY 4.0
+Industrial internet of things: why mobile applications are becoming increasingly important for the industry. The Industrial Internet of Things (IIoT) gathers pace by connecting people, machines, plants, logistics, products as well as processes and systems. Smartphones, tablets, sensors and smart HMI systems form the cornerstones of this new technological age in the industry. However, the real advantage and added value of digital and mobile solutions emerge from the integration of a wide range of professional applications. They streamline not only a production step, but a whole value-added chain.
+https://www.automation.com/automation-news/article/industrial-internet-of-things-why-mobile-applications-are-becoming-increasingly-important-for-the-industry
+
+CUSTOMER EXPERIENCE
+Getting better analytics and insights from your collected customer data. Data collection and analytics are tightly coupled. The mistake we see made over and over again is that companies tend to focus their customer data collection efforts with a single objective (or a single program) in mind. This treats the data collected as a short-term objective, not as a long-term asset. Over time, this results in data islands that eventually "go dark" given that no one is managing customer data as part of an explicit long-term effort. When it comes to customer data, a long-term data collection strategy almost always proves critical for any advanced analytical work that leads to meaningful business outcomes that can optimize (i.e., simulation management, condition-based maintenance, predictive maintenance and digital twins). Trending analysis, predicting behavior and customer profiling all benefit from long-term data collection strategies.
+https://www.forbes.com/sites/forbestechcouncil/2017/09/15/getting-better-analytics-and-insights-from-your-collected-customer-data/#bcc710a5f202
+
+
+EDITION 14 22.9.2017 - 5.10.2017
+CORPORATE INNOVATION
+CHEMICAL DISTRIBUTION
+Digitalization comes to the materials industry. “There is a lot of excitement about the potential of digital,” McKinsey proclaims. It goes on to define digital as an “umbrella term for all the digital-related topics, including new or enhanced ways of operating businesses by using data, analytics, and new digitally enabled technologies, communications, and platforms.” But hasn’t the chemical industry long been a digital leader, installing advanced financial management software and spending billions of dollars preparing for the shock of Y2K? Aren’t plants and laboratories today highly automated, filled with the latest computers? There wouldn’t appear to be much chance for IT excitement in chemicals. Yet enthusiasm for digital as the “next big thing” is borne out in recent announcements by BASF, Dow Chemical, Evonik Industries, and others that describe partnerships with computer giants such as IBM and Hewlett Packard Enterprise (HPE).
+https://cen.acs.org/articles/95/i39/Digitalization-comes-materials-industry.html
+
+CHEMICAL DISTRIBUTION
+Evotec acquires stake in Exscientia. Evotec AG (Hamburg, Germany) has acquired a minority stake in Exscienta Ltd., a pioneer in self-learning systems for drug discovery. The Hamburg-based company used its recent €75 EIB loan to finance the transaction. Through its investment, Evotec becomes the first strategic shareholder in the UK-based company, which partnered with Sanofi and GSK this year. According to Exscienta's Big Pharma partners, the company's self learning algorithms could cut time and cost of drug discovery by 25%. While there is no detailed information available on the function of Exscienta’s AI system, the company suggests that it actively can learn from previous experimental results and rapidly evolves compounds towards the desired candidate criteria.
+https://european-biotechnology.com/up-to-date/latest-news/news/evotec-acquires-stake-in-exscientia.html
+
+CHEMICAL DISTRIBUTION
+IBM just simulated chemistry with a quantum computer. IBM scientists have managed to pull a record-breaking molecule simulation using a quantum processor, opening new promising paths to chemistry and materials science. When chemists conduct experiments, they sometimes have to manipulate all kinds of materials that are more or less hazardous, or rare and expensive, and they have to be precise to ensure that no foreign element or unknown parameter would compromise the results. Once the reaction is launched, they will have to take different measurements during the whole experiment, which can take days or even weeks. Computer simulations of chemical reactions are thus of great help as a tool, especially with the growth in computing power.
+https://edgylabs.com/ibm-just-simulated-chemistry-with-a-quantum-computer/
+
+
+
+
+PLATFORMS AND STARTUPS
+INDUSTRY 4.0
+Industrial Internet continues to attract innovation. With the IoT Solutions World Congress in full swing this week, there has been an increase in announcements around the Industrial Internet of Things. Hewlett Packard Enterprise has launched a new platform that simplifies application deployment in manufacturing plants and unifies the operation of legacy and smart factory applications. The “Express App Platform – Manufacturing” is described as an on-premises solution that is integrated with cloud aggregator company Cloud28+ and allows manufacturers to accelerate digital factory transformation while avoiding disruption of their ongoing operation. “Traditional manufacturing applications support a stable, yet rigid automation of production processes”, said Volkhard Bregulla, VP of Global Manufacturing Industries at HPE. “The Express App Platform – Manufacturing helps customers integrate smart-factory applications into their operations to create an adaptable factory without affecting the current foundation of their ongoing business.”
+http://www.telecomtv.com/articles/iot/industrial-internet-continues-to-attract-innovation-16040/
+
+DIGITAL SUPPLY CHAIN
+LINK3D launches additive manufacturing digital factory. Following a burgeoning demand for integrated software as a service (SaaS) platforms, New York’s LINK3D has launched its Digital Factory solution for additive manufacturing automation. The service connects all key parts of the additive workflow, from initial drafting through to end production. Such systems have become an invaluable part of companies seeking to stay ahead of the curve on Industry 4.0. In the Digital Factory, 3D printing jobs are either sent as quote requests (RFQs) to internal manufacturing facilities, or to external providers, selected by location and 3D printing method. If outsourced, the platform makes use of LINK3D’s On Demand database – listing over 160 service bureaus such as EOS and 3D Systems in 32 countries around the world. Files sent to this platform are also protected by military grade 256-Bit Encryption to ensure no loss of IP. Once confirmed, the parts can then be scheduled for production, and followed in the platform for delivery.
+https://3dprintingindustry.com/news/link3d-launches-additive-manufacturing-digital-factory-121935/
+
+DIGITAL SUPPLY CHAIN
+Swiss supply chain startup Ambrosus launches token generation event. Ambrosus, the blockchain-based ecosystem for the supply chain, has announced the launch of its Token Generation Event (TGE), commencing today at 2 P.M. CET and concluding October 22, 2017. Combining high-tech sensors, blockchain technology and smart contracts, Ambrosus was founded to overcome the current deficiencies and challenges of current global supply chains and markets. Ambrosus will issue AMB tokens on the Ethereum blockchain. [..] "Ambrosus aims to become the world's first publicly verifiable and community-driven system to assure the quality, safety, and origins of food, pharmaceuticals and other essential products. Despite rapid technological development in many industries, the world's system of commodity production and distribution has been slow to capitalise on the ground-breaking advancements of our time. Proceeds secured through our TGE will continue to fuel the development of a better ecosystem for global commodity markets," added Versetti.
+http://www.prnewswire.com/news-releases/swiss-supply-chain-startup-ambrosus-launches-token-generation-event-646818773.html
+
+
+
+
+
+RESEARCH AND INSIGHTS
+CUSTOMER EXPERIENCE
+Accenture study: how to fix the broken customer journey. Just 21% of sales and customer service executives surveyed feel they have control of their organization’s sales networks and overall customer experience. What’s required? B2B organizations need to “abandon the benign neglect of traditional channel management and adopt an orchestrated approach to drive connected growth.” “B2B leaders know that customer experience is the gateway to growth and have increasingly relied on channel partners to help them deliver. But many have been flying blind,” Robert Wollan, senior managing director and global Advanced Customer Strategy lead at Accenture Strategy said in a press release. “Distracted by building extensive partner networks to increase selling opportunities, they’ve missed the critical balance of picking and managing partners who can leverage customer insight and use it to deliver better experiences. To regain control, B2B leaders will orchestrate their sales ecosystem by seeing partners as an extension of their business and empower them with customer insights, coaching and support. Only then can they fully tap their connected growth potential.”
+http://www.brandchannel.com/2017/10/03/accenture-customer-journey/
+
+INDUSTRY 4.0
+Emerson survey reveals 60% of manufacturers are testing industrial internet of things programmes. Manufacturers are convinced the Industrial Internet of Things (IoT) will help them improve operations and profitability by 10% or more, but most are struggling to develop the right plans to take advantage of the technology, according to a new IndustryWeek survey sponsored by Emerson. The survey revealed that about 60% are exploring or investing in Industrial IoT pilot projects, but only 5% are investing against a clear business case for how to best implement the technology. The vast majority of Industrial IoT investment today is in the early stages of plan development and small-scale trials, often as part of a larger operational efficiency programme. The survey found the biggest challenges for operational efficiency programmes are company culture (47%); lack of clear business strategy (41%); and knowing which technology will deliver measurable improvement (34%).
+http://www.scandoil.com/moxie-bm2/news/emerson-survey-reveals-60-of-manufacturers-are-tes.shtml
+
+INDUSTRY 4.0
+Attacking unplanned downtime through predictive maintenance. A new Industrial Internet Consortium testbed aims to tackle the inefficiency of scheduled preventative maintenance. With the real-time data flow of IIoT-enabled machines and components, predictive maintenance has the potential to make preventative maintenance obsolete. The testbed is led by two companies that specialize in Industry 4.0 solutions: Plethora IIot and electronics company Xilinx. The main goal of the testbed is to evaluate machine learning techniques for predictive maintenance on real-world, high-volume production machinery. The challenge is to detect and understand failures, to ultimately reduce downtime and increase energy efficiency. IIoT sensors can gather enormous amounts of real-time data, but critical analysis is required to maximize the usefulness of that data.
+http://www.engineering.com/AdvancedManufacturing/ArticleID/15710/Attacking-Unplanned-Downtime-Through-Predictive-Maintenance.aspx
+
+
+EDITION 15 6.10.2017 - 19.10.2017
+CORPORATE INNOVATION
+
+
+INDUSTRY 4.0
+Apple and GE announce deep partnership. Apple and GE have committed to build a set of development tools and to develop apps together using Apple’s design sensibility and deep understanding of iOS, but the deal doesn’t stop there. Apple’s sales team will also push the GE Predix platform with its industrial customers when it makes sense, and GE has committed to standardizing on the iPhone and iPad for its 330,000 employees, while offering the Mac as a computer choice. All of this adds up to a level of cooperation we have not seen in Apple’s previous enterprise partnerships. For starters, the two companies announced an iOS software development kit (SDK) for GE’s Predix platform, which is a set of cloud services designed to help industrial customers track the health of the huge industrial equipment GE sells and services. It can help predict failures before they happen and bring down this expensive equipment such as jet engines, wind turbines and train locomotives.
+https://techcrunch.com/2017/10/18/apple-and-ge-announce-deep-partnership/
+
+CUSTOMER EXPERIENCE
+RTI announces new technology IIoT incubator. The company wants to create a mechanism to share the full range of RTI-developed technologies at various development stages, allowing software developers to increase their knowledge and efficiency when architecting IIoT systems of systems, and to reduce the time, effort and resources spent on creating alternative solutions. “Our number one priority as a company is going above and beyond in our customer support and relationships, which was the driving force behind the creation of RTI Labs,” said Jan Van Bruaene, vice president of engineering at RTI. “We encourage our customers to engage with our engineers and speak openly about their unique experiences and processes in implementing our products”.
+https://smartcitiesworld.net/news/news/rti-announces-new-technology-iiot-incubator--2223
+
+CHEMICAL DISTRIBUTION
+Sun Chemical adds inks for printed electronics. Sun Chemical has entered into a license agreement to introduce a new family of molecular inks for the printed electronics market with Groupe Graham International (GGI) and the National Research Council of Canada (NRC). Based on ionic molecules processed through a reduction process, the IPS family of products is claimed to offer a viable alternative to conventional polymer thick film conductive inks and serve as a low-cost alternative to nano materials. The family of products include silver and copper metallization options that can be applied by screen, inkjet or other high speed printing methods. The molecular inks feature sub-micron trace thickness that will enable the production of narrow traces in thin dielectric layers on a variety of applications, including: in-mold electronics (IME), printed antenna, displays, EMI/RFI and sensors.
+http://www.labelsandlabeling.com/news/new-products/sun-chemical-adds-inks-printed-electronics
+
+
+
+
+PLATFORMS AND STARTUPS
+
+INDUSTRY 4.0
+Supply chain’s future rests in the cloud. The accelerated demand of consumers mandates that businesses need to ensure their supply chains can keep pace and continue to stay competitive. Yet, disconnected legacy systems are inhibiting retail and manufacturing companies from quickly adopting technology solutions to address the needs of modern business. To transition legacy systems to a more modern approach, businesses should look to cloud-based management solutions to integrate all areas of supply chain, both internal and external, to gather real-time data and enable a more holistic view into the supply chain. Emerging technology devices and systems can help bring together supply chain planning, manufacturing and maintenance and provide the necessary insights to properly manage across the entire system. For example, utilizing IoT enabled cloud technology can provide real-time visibility to machines operating in various production lines in different locations, and inform managers about the most productive locations and associated performance details. This gives managers insight to connect and streamline processes across multiple locations for more effective production.
+http://www.mhlnews.com/technology-automation/supply-chain-s-future-rests-cloud
+
+Digital Supply Chain
+Flexport gains more funding to dominate supply chain’s digital arena. Flexport maintains that it is solving real problems in one of the world’s biggest markets, offering its clients greater visibility, more accurate data, more transparent pricing, and better customer service than conventional wisdom thought possible. “We’re achieving that by using software to connect everyone who touches the global supply chain, whether it’s factories coordinating bookings, logistics teams collaborating on imports, or dispatchers relaying pickup details to truckers,”says Ryan. Recent analysis notes that the entry of Amazon in the logistics space may have led to more urgency for Flexport. In interview with mainstream press, Petersen has observed that “there’s a lot of hesitancy to turn over sensitive data.”
+http://www.logisticsmgmt.com/article/flexport_gains_more_funding_to_dominate_supply_chains_digital_arena
+
+INDUSTRY 4.0
+Israeli startup uses AI to predict risks at industrial plants. There has been much discussion on how artificial intelligence (AI) can help create a better world. Among the various startups that are involved in such technologies is Israel-based Precognize, which is applying its knowhow to detect dangers in industrial facilities and send out warnings in a preventive way. By collecting vast amounts of data received from thousands of sensors installed around utilities or manufacturing plants, the predictive maintenance technology developed by Precognize can translate raw information into concrete early alerts to reduce or altogether prevent any damage, the Times of Israel reports. Combining data analysis and system engineering skills and using a visual interface, Precognize claims it can aggregate a tremendous amount of data, filter out the noises and present a clear picture of the functioning of a facility.
+http://www.ejinsight.com/20171013-iraeli-startup-uses-ai-to-predict-risks-at-industrial-facilities/
+
+RESEARCH AND INSIGHTS
+CHEMICAL DISTRIBUTION
+Digital transformation of the chemical industry.  The chemical and advanced materials sectors need to push ahead with digital transformation, according to the World Economic Forum. This will help to herald in new innovations. The World Economic Forum has been analyzing the effect of, and possibilities for, the digital transformation of different industries for the past three years. The review began with the automotive, consumer goods, electricity, healthcare, logistics and media sectors. This has now extended to chemistry and advanced materials. Many technological solutions are reliant upon chemistry and materials sciences: touch screens, the rechargeable batteries in portable devices, OLEDs in flexible electronics and the lightweight materials used to build drones, are a few examples highlighted by Bernd Kreutzer, Managing Director at Accenture Strategy and Fernando J. Gómez, Head of Chemistry and Advanced Materials Industry, at the World Economic Forum.
+http://www.digitaljournal.com/tech-and-science/science/digital-transformation-of-the-chemical-industry/article/504525
+
+INDUSTRY 4.0
+How predictive maintenance fits into industry 4.0. Industry 4.0 is the latest industrial revolution, but instead of steam trains and textiles, this generation is using artificial intelligence (AI), forever changing the way machines collect and interpret data. Manufacturing in this new era of machine learning requires little human intervention, transitioning from an input and output approach to a fluid conversation between humans and robots. In the manufacturing space, IoT technology is a crucial enabler for predictive maintenance. Through the use of IoT sensors, smart factories are coming to life, with connected machines that can communicate with each other and with humans, who can take action when necessary. This technology can catch changes and faults that are unseen by the human eye. Instead of solving a problem after it happens, predictive maintenance will alert the system ahead of time, so humans (or machines) can take the necessary action to ensure no problem occurs at all.
+https://www.engineering.com/AdvancedManufacturing/ArticleID/15798/How-Predictive-Maintenance-Fits-into-Industry-40.aspx
+
+CUSTOMER EXPERIENCE
+How AI is fueling customer experience strategies. A global survey of more than 550 senior executives across 30 countries and territories reports that 91 percent of “iconic” companies — those that maintain both the highest levels of customer experience (CX) satisfaction and have world-leading brand recognition — deploy Artificial Intelligence (AI) solutions to increase customer satisfaction, compared to 42 percent of companies in their fields overall. “The leaders of iconic companies know that they also have to be leaders in customer experience technology investment,” said Elizabeth Bramson-Boudreau, CEO and Publisher at MIT Technology Review. “But they also know that over-reliance on technology in search for efficiency gains can reduce, rather than increase, the levels of customer intimacy required for success.”
+http://www.cxotoday.com/story/how-ai-is-fueling-customer-experience-strategies/
+
+CHEMICAL DISTRIBUTION
+‘Made in China’ now extends to chemical process technology. For the past two decades, China has invested heavily in R&D. The research was initially aimed at developing new products, but process development has more recently turned into a major focus. At the moment, beefed-up budgets for process research are aimed at solving uniquely Chinese challenges, such as using coal as a chemical feedstock. But as China’s process design expertise advances, processes developed in the country will increasingly find users abroad. “The quality of processes developed in China is improving,” confirms Yunjie Ding, a professor specializing in industrial catalysis at Dalian Institute of Chemical Physics (DICP). Over the past decade, Ding and his group have developed several processes that have been commercially implemented at chemical plants in China.
+https://cen.acs.org/articles/95/i42/Made-Chinaextends-chemical-process-technology.html
+
+EDITION 16 20.10.2017 - 2.11.2017
+CORPORATE INNOVATION
+
+CHEMICAL DISTRIBUTION
+Sabic spotlights new predictive engineering capabilities. Sabic, a leader in the chemical industry, is sharing its latest capabilities to support the global water industry at Aquatech Amsterdam, which is taking place this week. The company is featuring new services such as Predictive Engineering to its Water Management Center of Excellence located in Bergen Op Zoom, the Netherlands – a technology centre where the company’s experts work with water industry manufacturers to test and optimise products designed with Sabic’s engineering resins. Sabic is also highlighting recent research on its Noryl polyphenylene ether (PPE) resin portfolio, which includes new anti-biofouling properties and anisotropic behaviour of fibre-reinforced grades. The company is also introducing new, innovative additions to its robust portfolio of polyethylene (PE) and polypropylene (PP) materials for the global pipe industry.
+http://www.insidecomposites.com/sabic-spotlights-new-predictive-engineering-capabilities/
+
+DIGITAL SUPPLY CHAIN
+Kuehne + Nagel has partnered with JD.com, China’s largest retailer, to design a supply chain solution including quality control checks at origin. The technology-driven solution provides JD.com stock keeping unit (SKU) visibility over their in-bound supply chain before products are imported to China. The solution has been implemented within 12 months in an origin warehouse in Japan. JD.com procures goods from global brands to support the growing demand from Chinese consumers for overseas products. Previously, goods were shipped directly from the brand manufacturers and inspected at destination warehouses in mainland China, but often products arrive damaged, expired or in incorrect quantities. To address these challenges, Kuehne + Nagel collaborated with JD.com to design a ‘Transfer Centre’ approach – a global supply chain solution which incorporates quality control checks at the consolidation warehouse at origin, prior to shipment to China.
+http://www.supplychaindigital.com/scm/kuehne-nagel-establishes-global-supply-chain-quality-control-solution-jdcom
+
+CHEMICAL DISTRIBUTION
+Covestro sends patent troll wake-up call to chemical industry. Leading chemical company Covestro has announced that it has taken proactive measures to protect itself against frivolous litigation from patent assertion entities (PAEs), otherwise known as patent trolls. Namely, the company has become the first in the chemical industry to join LOT Network, a non-profit community of companies whose members include cross-industry leaders such as Tesla, Alibaba, Cisco and JP Morgan Chase. “With the convergence of the chemical industry and digital technologies, our sector has increased exposure to PAE litigation,” said Gilbert Voortmans, Vice President, Head of Intellectual Property Rights at Covestro. “Innovation is core to our business, and we feel it’s important to take a stance against anything that could interfere with the fair use of intellectual property.”
+http://www.prweb.com/releases/2017/11/prweb14874340.htm
+
+
+PLATFORMS AND STARTUPS
+
+DIGITAL SUPPLY CHAIN
+Mastercard opens blockchain platform to b2b applications. Mastercard is taking a big step into blockchain with its new announcement that it will open access to its own blockchain API to third party developers.The company’s blockchain ledger system ensures that the participants of a given transaction share their personal information only between themselves, and not third parties, helping to ensure a high level of privacy. And given that it’s integrated into Mastercard’s 22,000-member payment network of financial institutions, it may turn out to be one of the most widely-supported blockchain platforms going. In a statement announcing the move, Mastercard said its blockchain technology will “initially” be offered for B2B applications, where it can help to track not only transactions but also supply chains, with a “proof of provenance” capability built into the system. But given all the buzz about blockchain in FinTech right now, Mastercard will likely be keen to extend this technology to consumers soon.
+https://mobileidworld.com/mastercard-blockchain-b2b-applications-010202/
+
+CHEMICAL DISTRIBUTION
+Evonik on its role in HP's 3D printing Open Materials Platform. As HP envisaged a programme akin to the Apple App Store to accelerate the development of 3D printing materials for its Multi Jet Fusion (MJF) system, one which would transform manufacturing, it required a group of ambitious chemical experts to make it a reality. One of the partners enjoying the freedom of HP’s Open Applications and Materials Lab is Evonik. The company was officially founded in 2007, a spin-out of the RAG Foundation, a mining and technology group that underwent a restructuring. Including its operation prior to the transition ten years ago, Evonik has been developing plastic powders for additive manufacturing for nearly 20 years. It leaves the company standing as a leader in the sector, and one who ‘has been making preparations for the hype beyond the hype.’ It has moved as the 3D printing industry has, further developing its material products for the manufacture of prototypes, and also series production.
+https://www.tctmagazine.com/3d-printing-news/evonik-hp-3d-printing-open-material-platform/
+
+INDUSTRY 4.0
+Digital Scent comes to the internet of things. The use of digital technologies to analyze odors represents an exciting frontier that is being advanced by NevadaNano, an advanced manufacturing business based in Sparks, hiring University of Nevada, Reno graduates and leveraging discoveries licensed through the University. NevadaNano has developed what the company calls Digital Scent: advanced gas sensors that detect and accurately identify hazards such as explosive, toxic or carcinogenic gases and deliver measurements through the cloud. NevadaNano's Molecular Property Spectrometer solution integrates an array of chemical sensors on a single silicon chip and brings gas sensing to the Internet of Things. An infusion of $18 million in Series B investor funding, announced Oct. 30, supports NevadaNano's continuing development and market launch of the next generation of sensors that can be distributed in homes, offices and outdoors to monitor exposure to hazardous gases and enable people to take action to protect health. These newest sensors continue to leverage the University-developed technology, and can detect trace levels of gases at a lower price point and with high levels of performance.
+https://www.unr.edu/nevada-today/news/2017/nevadanano-announcement
+
+
+INDUSTRY4.0
+Apple, GE release app-making tools for industrial internet. Apple Inc and General Electric Co released app-making tools on Thursday tailored to GE’s Predix platform for connecting power plants, jet engines and other industrial equipment to the internet. The software development kit marks the first tangible result of a partnership the companies announced last week. It extends Predix’s industrial internet capabilities to iPads and iPhones, so factory workers, pilots or service technicians can use familiar devices to do more sophisticated tasks.Apple will be tapping into the growing demand for industrial-internet capabilities, which can improve the performance of factory machines, predict when wind turbines will fail and help technicians fix machinery, making Apple’s devices relevant in the industrial arena.
+https://www.reuters.com/article/us-apple-ge-apps/apple-ge-release-app-making-tools-for-industrial-internet-idUSKBN1CW024
+RESEARCH AND INSIGHTS
+
+INDUSTRY 4.0
+10 imperatives for Europe in the age of AI and automation. The ability to capture and analyze enormous troves of data and establish machine-to-machine connectivity has significant potential to improve the efficiency of fixed assets such as machinery, oil fields, and buildings; it can also help companies streamline their operations in ways that were not possible before. Digitally enabled business models and capabilities are reshaping industries such as retail, transportation, finance, and manufacturing, and could transform many more. Digitization is also transforming globalization. The amount of cross-border data flows has grown 45 times larger since just 2005 and is projected to increase by an additional nine times over the next five years.
+https://www.mckinsey.com/global-themes/europe/ten-imperatives-for-europe-in-the-age-of-ai-and-automation
+
+DIGITAL SUPPLY CHAIN
+How digital transformation is enabling a resilient and sustainable supply chain. Digitisation is uniting a once siloed supply chain into an integrated end-to-end digital ecosystem – from the procurement of raw materials, to manufacturing and logistics, and finally to customer fulfillment. According to a recent PwC study, nearly 75% of companies expect to have achieved advanced levels of digitisation within the next three years. For large and complex supply chains like Hewlett Packard Enterprise (HPE), this digital transformation not only offers unprecedented flexibility and visibility, but has the ability to drive efficiencies, boost innovation, and reduce risk. Our ability to minimise disruptions has been accelerated by the rise of predictive analytics and big data, which anticipate shifts in customer demand, foresee the availability of raw materials, and can prepare us for catastrophic events.
+http://www.supplychaindigital.com/technology/how-digital-transformation-enabling-resilient-and-sustainable-supply-chain
+
+CHEMICAL DISTRIBUTION
+Ames lab research 3d prints practical catalytic objects for chemical study. Adding to the potential of 3D printed objects, research at the U.S. Department of Energy’s Ames Laboratory has proved the ability to make objects with instilled catalytic potential.By adding this quality to the material, researchers can make devices that facilitate the study of chemical reactions, practical to the synthesis of new chemical products, sensing and controlled substance release. Conventionally, such objects would be made in a multi-step process, first making or 3D printing the object, then added the active ingredient afterwards. By making these objects in a single swoop, Ames Lab researchers significantly streamline the process, unlocking new potential for 3D printing as fabrication method for catalysts.
+https://3dprintingindustry.com/news/ames-lab-research-3d-prints-practical-catalytic-objects-chemical-study-123654/
+
+CUSTOMER EXPERIENCE
+Accenture Strategy report provides insights on the new b2b customer experience. 73 Percent of B2B Executives Want A More Personalized Solution. Accenture Strategy’s MD, Advanced Customer Strategy, Jason Angelos, Holds Forth on How to Better CX. According to findings from a new report by Accenture Strategy, B2B customers are increasingly looking for a Customer Experience similar to those offered by B2C companies. In their B2B Customer Experience 2017 report, based on a survey of 1,350 sales and customer service executives from B2B organizations around the world, key findings reveal insights into how marketers can customize the experience to better suit their increasingly discerning audience. While 97% of B2B sales and customer service execs say that channel partners are critical to their business, just 21% have total control over their organization’s sales networks and overall customer experience.
+https://martechseries.com/sales-marketing/crm/accenture-strategy-report-provide-insights-new-b2b-customer-experience/
+
+
+EDITION 17 3.11.2017 - 16.11.2017
+
+CORPORATE INNOVATION
+CHEMICAL DISTRIBUTION
+Dow Chemical enters 3D printing with launch of EVOLV3D platform. Dow Chemical, a subsidiary of DowDuPont, has announced its entry into 3D printing materials market with the launch of the EVOLV3D Universal Support Material (USM) as part of an upcoming  EVOLV3D platform. Dow first revealed their Liquid Silicone Rubber Solution LC 3335 earlier this year at SolidWorks World together with a 3D printer project from German RepRap. The company has also been involved in additive manufacturing activities ranging from the establishment of US manufacturing hubs to 3D printing structures with MIT. EVOLV3D USM uses a water soluble support material able to maintain keep its structural integrity whilst being 3D printed. The USM is designed to facilitate the 3D printing of parts with “large overhangs, intricate inner geometries and deep cavities.”
+https://3dprintingindustry.com/news/dow-chemical-enters-3d-printing-launch-evolv3d-platform-124574/
+
+CHEMICAL DISTRIBUTION
+Bayer launches new digital farming brand xarvio. Bayer has announced it is marketing its digital farming solutions under the brand name xarvio. The company is launching its brand at this year’s Agritechnica, the European trade fair for agricultural machinery with 2,900 exhibitors from 52 countries that starts this week. “Our objective is to improve farming – for the farmers and for the environment,” said Tobias Menne, global head of digital farming at Bayer, in a company news release. "xarvio technologies can support farmers all around our planet to optimize the amount of crop protection they need, thus to produce more efficiently and to increase profits while reducing the impact farming has on the environment.” Bayer officials say xarvio solutions give farmers the opportunity to optimize the potential of their individual fields and field zones. Bayer’s Field Manager, for instance, will provide farmers with instant access to field-specific actionable strategies for the most efficient application of crop-protection products.
+https://www.agriculture.com/news/technology/bayer-launches-new-digital-farming-brand-xarvio
+
+CHEMICAL DISTRIBUTION
+BASF joins Greentown Labs as a founding sponsor of the Global Center for Cleantech Innovation.  As the world's leading chemical company, BASF sits at the nexus of science and innovation for environmental sustainability and social responsibility. Through this sponsorship, BASF will work closely with Greentown Labs' member companies to help them iterate on their developments in the incubator's new Wet Lab and bring them to market faster. The Greentown Labs Global Center for Cleantech Innovation will serve as the incubator's headquarters and transform the incubator into a multi-facility campus totaling more than 100,000 sq. ft. The new facility, just steps from Greentown Labs' current location, will provide additional prototyping lab space, office space for more than 100 cleantech startups, a 24-bench wet lab, electric and hydrogen fuel cell vehicle charging stations, and a 500-person event space which will serve as a convener for the global cleantech community.
+https://www.prnewswire.com/news-releases/basf-joins-greentown-labs-as-a-founding-sponsor-of-the-global-center-for-cleantech-innovation-300551681.html
+
+PLATFORMS AND STARTUPS
+CUSTOMER EXPERIENCE
+New digital chemicals trading platform: Covestro hopes to generate billions in turnover. Covestro is pursuing a comprehensive strategic program to seize the opportunities of digitization and set new standards in collaborating with customers. To do so, the materials manufacturer is anchoring digital technologies and operating procedures on central levels: in production, supply chain, research and development, at all points of contact with customers and in developing new business models. Its focus in all these efforts is on the specific benefits to customers. At the same time, all company employees are to benefit from the opportunities of digitization as well. Digitization thus will become a fixed element of corporate strategy and linked to defined financial targets: for example, a new form of online commerce is to contribute up to one billion in sales in two years. “Digitization and the Internet of Things currently are growth drivers in the chemical industry, and we are actively exploiting their advantages and shaping their development,” says Dr. Markus Steilemann, Chief Commercial Officer.
+http://www.chemeurope.com/en/news/165570/new-digital-chemicals-trading-platform-covestro-hopes-to-generate-billions-in-turnover.html
+
+DIGITAL SUPPLY CHAIN
+SAP blockchain initiative expands to 27 members. SAP has announced that 27 customers and partners, with a total market value of $819bn, have joined its blockchain co-innovation initiative. The initiative seeks to integrate the digital ledger system into Internet of Things (IoT), manufacturing and digital supply-chain solutions using the SAP Cloud Platform Blockchain service. Participating companies span the globe and represent the consumer products, telecom, retail, pharmaceuticals, logistics, agriculture, high-tech, aerospace and defence, industrial machinery, energy and utilities, and public services industries. Dr. Tanja Rueckert, president of IoT & Digital Supply Chain, SAP, said: “Our customers and partners are eager to join SAP in embracing blockchain as a distributed ledger that can increase transparency and collaboration...We are equally eager to co-innovate with the world’s leading companies to reimagine a future where blockchain is woven into the fabric of the digital value chain.” SAP said the breadth of companies signals the potential broad adoption of blockchain technology.
+http://www.supplychaindigital.com/technology/sap-blockchain-initiative-expands-27-members
+
+CHEMICAL DISTRIBUTION
+Henkel invests in advanced materials start-up NBD Nanotechnologies. Being a leading materials and solutions provider in the global coatings market, Henkel Adhesive Technologies further strengthens its expertise in this highly innovative field: Henkel invests into US-based advanced materials start-up NBD Nanotechnologies (NBD Nano). “As part of our innovation strategy at Adhesive Technologies we have established a strong scouting process for new technologies and applications”, said Michael Todd, Global Head of Innovation & New Business Development at Henkel Adhesive Technologies. “The investment in NBD Nano demonstrates our commitment to collaborate with promising start-ups that provide access to cutting-edge future technologies.” NBD Nano, headquartered in Boston, Massachusetts, is an advanced materials start-up with expertise in adjusting surface properties such as repellency or adhesion. Through its proprietary platform technology, the company is creating additives for plastics and coatings which provide customized surface solutions that are both durable and adaptive. NBD Nano’s technology can be used in manifold applications – from electronics and consumer goods to automotive.
+https://www.glassonweb.com/news/henkel-invests-advanced-materials-start-nbd-nanotechnologies
+
+RESEARCH AND INSIGHTS
+
+INDUSTRY 4.0
+Smart factories: the future of manufacturing. A new study from Capgemini, says 76% of manufacturers either have an ongoing smart factory initiative or are working on formulating one. More than half of them, the study says, have designated $100 million or more toward smart factories. It estimates the smart factories could add $500 billion to $1.5 trillion in value-added to the global economy in five years. These manufacturers predict overall efficiency will grow annually to 2022 at seven times the rate of growth since 1990. Chemical giant BASF incorporated a smart factory system in Kaiserslautern, Germany, to manufacture fully customizable soaps and shampoos. When an order is placed, the automated factory line adjusts its protocols to make the product and packaging as ordered by the customer. Radio-frequency ID tags attached to the soap containers send wireless signals that tell the machines on the production line about the customized order.
+https://www.supplychaindive.com/news/smart-factories-Deloitte-talent-shortage-manufacturing/506932/
+
+CHEMICAL DISTRIBUTION
+Chemical firms plunge into 3-D printing. Polymer companies including Arkema, DSM, Lubrizol, and Perstorp are deepening their commitment to three-dimensional printing. They are betting that increasing the number of materials available for the technology will help it take off in manufacturing. DSM has established a new business, DSM Additive Manufacturing, as part of an effort to broaden its 3-D printing business beyond stereolithography (SLA), a process that uses lasers to trace parts out of a vat of photopolymer. A leader in that sector for decades, DSM now aims to sell polymers for other 3-D printing techniques, including fused filament fabrication (FFF), in which a machine draws parts layer by layer with melted resin. The company also acquired a materials development kit from the printer giant HP, which is developing a high-speed 3-D printing technology it calls Multi Jet Fusion. The kit will allow DSM to test the compatibility of its resins with HP’s process. Dow Chemical also acquired a toolkit. Materials, HP argues, are essential to the success of 3-D printing. Ramon Pastor, general manager of Multi Jet Fusion at HP, points out that thousands of materials are available for conventional “analog” processes such as injection molding. “3-D printing will need to develop just as many,” he says.
+https://cen.acs.org/articles/95/i46/Chemical-firms-plunge-3-D.html
+
+CUSTOMER EXPERIENCE
+Customer experience is the new battleground for B2B businesses.Great customer experience and satisfaction has played a pivotal role in retaining existing customers and getting new ones through reference. In comparison to the B2C world, the way B2B looks at customer experience management is a lot different as the loss of a customer, especially because of customer service, can prove to be catastrophic for a firm. It is important for an enterprise to make sure that they are solving all major pain points of their customers, and periodically take surveys to understand the patterns of the prospective customers. Besides, it is very important to follow an apt communication channel to connect with customers and educate them from time to time. Here are a few points that will help enterprises to take customer experience strategy one step higher: (i) Content marketing holds the key (ii) Getting the right staff and providing the right training (iii) Give customer service top priority in the customer lifecycle (iv) Deliver a effortless experience to customers.
+https://www.cioreview.com/news/customer-experience-is-the-new-battleground-for-b2b-businesses-nid-25187-cid-155.html
+
+
+EDITION 18 17.11.2017 - 30.11.2017
+
+CORPORATE INNOVATION
+
+CHEMICAL DISTRIBUTION
+BASF connects disparate industrial data sources to improve operations. BASF’s Reliability Center employs manufacturing intelligence to provide expert support to sites to ensure reliable operation. The Center accesses industrial data from different sources at BASF sites around the globe and analyzes the data to support production sites with recommendations and troubleshooting. Dr. Michael Krauss, Senior Automation Manager at BASF SE, recently discussed parts of the company’s digital transformation with ARC Advisory Group and told us about early successes in achieving global access to industrial data from multiple applications to many data sources in a secure and scalable way. BASF’s Reliability Center experts need 24/7 access to industrial data from different data sources and locations across the globe to support on-site personnel. This approach permits experts to remotely monitor equipment and catch issues before they cause damage that on-site personnel couldn’t or wouldn’t notice.
+https://www.arcweb.com/blog/basf-connects-disparate-industrial-data-sources-improve-operations
+
+INDUSTRY 4.0
+Linux for the Industry 4.0 era: New distro for factory automation. NXP Semiconductors, a world leader in secure connectivity solutions, just announced a Linux distribution that is intended to support factory automation. It's called Open Industrial Linux (OpenIL), and it's promising true industrial-grade security based on trusted computing, hardened software, cryptographic operations and end-to-end security. The fact that factory managers and industrial equipment manufacturers are turning to Linux is not surprising considering its operational stability, professional approach to system security, and its obvious low cost of ownership. The importance of the security and reliability of manufacturing security to the well being of any industrial nation is clear from the focus that DHS places on this sector.
+https://www.networkworld.com/article/3238727/linux/linux-for-factory-automation.html
+
+CUSTOMER EXPERIENCE
+AkzoNobel opens advanced application training centre in Dubai. AkzoNobel has opened its first regional application training centre in Dubai, which will help to further strengthen customer service standards and promote localised innovation of paint products. The state-of-the-art facility will offer advanced training programmes for AkzoNobel customers, enabling them to build capacity and deepen their knowledge of paints and coatings. It will focus in particular on OEMs and refinishers in industries as diverse as automotive and rail, aerospace, and consumer electronics. “The new centre highlights our commitment to deepen our relationship with customers in the region and provide expert training on the most efficient use of our paint systems,” explained Peter Tomlinson, managing director, automotive and specialty coatings business, AkzoNobel.
+http://www.arabianoilandgas.com/article-18059-akzonobel-opens-advanced-application-training-centre-in-dubai/
+
+
+PLATFORMS AND STARTUPS
+DIGITAL SUPPLY CHAIN
+EasyPnP to establish procurement joint venture with Fosun Group subsidiary Onelinkplus. EasyPnP, China's leading non-core procurement platform, today announced that it has entered into an agreement to form a procurement joint venture (the "JV") with Onelinkplus, a subsidiary of the Fosun Group that provides credit, procurement, supply chain, financial, and other value-added services through an integrated online platform. The JV will provide cost-effective enterprise procurement services, including printed materials, gifts, office supplies, office furniture, and packaging supplies, for portfolio companies within the Fosun Group. Leveraging the deep experience it has accumulated over the past six years, EasyPnP will roll out its Easy Cloud Procurement Platform, which leverages cloud computing and big data technology, to provide value added services such as procurement management SaaS, supply chain management and a customized management-approval system. https://www.prnewswire.com/news-releases/easypnp-to-establish-procurement-joint-venture-with-fosun-group-subsidiary-onelinkplus-300563452.html
+
+
+INDUSTRY 4.0
+Cyber security startup raises $10m to help protect industrial internet systems. As connected devices find their way into large-scale industrial applications – what’s often called IIoT, or Industrial Internet of Things – the need to safeguard those networks becomes more imperative. If you’re, say, a large automotive company running a bunch of manufacturing plants, you really don’t want your connected systems hijacked by hackers or compromised by employee errors. Tel Aviv-based ScadaFence is a cyber security startup that tackles this specific challenge – shielding industrial networks from cyber attacks and threats. The company just announced its series A round, raising US$10 million. Investors include JVP, NexStar Partners, 31Ventures Global Innovation Fund, Global Brain’s GB-VI Growth Fund, iAngels, and DS Strategic Partners. The funds will be used to grow the company’s research and development center in Tel Aviv and boost its global business teams to address “growing demand” from its clients in the US, Europe, and Asia.
+https://www.techinasia.com/scadafence-series-a
+
+DIGITAL SUPPLY CHAIN
+SophiaTX integrates blockchain technology with SAP. In September, SophiaTX announced the first open-source platform to primarily integrate blockchain technology with SAP software, used by 87 percent of global businesses and 98 percent of the top 100 most-valued brands. “To advance blockchain into business operations, the blockchain must integrate with ERP [enterprise resource planning] and other enterprise applications such as SAP,” notes the SophiaTX white paper. “This sector has been relatively untouched until recently when Equidato Technologies AG [SophiaTX’s parent company] announced their first project, SophiaTX, an open source blockchain platform and marketplace designed for businesses of all sizes.” The integration of blockchain technology with ERP, CRM (customer relationship management) and SCM (supply chain management) business software is certainly a hot topic pursued by major vendors and blockchain-oriented solution developers.
+https://bitcoinmagazine.com/articles/sophiatx-integrates-blockchain-technology-sap/
+
+
+RESEARCH AND INSIGHTS
+INDUSTRY 4.0
+From theory to reality – powering up industry 4.0. One of our first challenges is in accepting that robots and so-called Robotic Process Automation (RPA) have arrived for real. We are now learning the part that these machines and software systems can play in the way all organisations now refine and finesse their business models. The opportunities here are both massive and diverse, which means that this new realignment of industry will take some time to fully engineer and fully exploit for positive gain. In the Industry 4.0 era we see that firms will now be structured around a deeper core of system interoperability and information transparency, which in itself will enable a new era of decentralised decision making. There is a liberation factor here and it works in a positive virtuous circle. That is, as we humans start to understand when and where we can apply RPA, we can further tune our workflows to be even more efficient. In this new environment of information clarity and data analytics-empowered efficiency we can now free up our human workforce from repetitive tasks that can be specifically codified for machine brains to execute.
+https://diginomica.com/2017/11/29/theory-reality-powering-industry-4-0/
+
+
+CHEMICAL DISTRIBUTION
+Time is ripe for chemical industry to grasp digitisation - Accenture. The chemical industry is gradually becoming aware of the benefits that digitisation can offer in terms of efficiency and cost savings, but it will take a leap of faith to move from awareness to spending money and being prepared to alter business processes. Consultants at Accenture are so convinced that the age of digitisation is upon us that they have launched a new practice known as Industry X.0 aimed at helping companies tap into new technologies. The group claims that the average chemical company could boost market capitalisation by more than $4.4bn through adoption of an optimum combination of new technologies. They also estimate cost savings of $91,261 per employee are achievable. Pete Frandina, North America Industry X.0 lead, said to ICIS that technologies need to be combined and not seen in isolation to get the maximum benefits.Remote monitoring and communication between employees on sites can help with allocation of resources as well as safety and protection.
+https://www.icis.com/resources/news/2017/11/17/10164524/time-is-ripe-for-chemical-industry-to-grasp-digitisation-accenture/
+
+DIGITAL SUPPLY CHAIN
+Manufacturers falling behind in take-up of digital supply chain networks. Only 29% of manufacturers admit to truly understanding what having a Digital Supply Chain Network (DSN) is, with under 15% implementing a DSN and expecting them to become the norm for the business in the next five years, according to a new study. The findings are part of a report by Sapio Research on behalf of Zetes which found that the biggest challenges to adoption is a lack of information visibility, which in-turn damages the chances of an organisation being able to access relevant insight in real-time. At present, manufacturers state securing meaningful intelligence from their end-to-end supply chain as a challenge (80%), dealing with-real time information (75%) and the ability to deal with the intelligence – as significant hurdles that need to be overcome. The fact that over two thirds of manufacturers cannot provide decision makers with access to the information required to make informed business decisions, is of significant concern. Although 89% of manufacturers state that they believe that a single view of information from supply chain operations is key – to date, only 30% have full end-to-end visibility.
+http://www.supplychaindigital.com/technology/manufacturers-falling-behind-take-digital-supply-chain-networks
