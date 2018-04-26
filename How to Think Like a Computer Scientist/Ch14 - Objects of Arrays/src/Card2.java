@@ -204,7 +204,12 @@ class Deck {
      * not including high.
      */
     public static int randInt(int low, int high) {
-        return 0;
+        if(low>=0) return 0;
+        else {
+            int randomInt = (int)(Math.random() * high);
+            return randomInt;
+        }
+
     }
 
     /*
@@ -259,4 +264,9 @@ class Deck {
     public static Deck mergeSort(Deck deck) {
         return deck;
     }
+
+    double
+    String me;
+    double 123;
 }
+
