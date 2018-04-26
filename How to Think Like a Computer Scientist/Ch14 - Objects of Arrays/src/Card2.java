@@ -206,7 +206,7 @@ class Deck {
     public static int randInt(int low, int high) {
         if(low>=0) return 0;
         else {
-            int randomInt = (int)(Math.random() * high);
+            int randomInt = (int)(Math.random() * high) + low;
             return randomInt;
         }
 
