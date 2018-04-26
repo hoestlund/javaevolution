@@ -12,6 +12,7 @@ public class Card2 {
     /*
      * Test code.
      */
+
     public static void main(String[] args) {
         Deck deck = new Deck();
 
@@ -204,12 +205,12 @@ class Deck {
      * not including high.
      */
     public static int randInt(int low, int high) {
-        if(low>=0) return 0;
-        else {
-            int randomInt = (int)(Math.random() * high);
-            return randomInt;
-        }
 
+        if(low<high) {
+            int range = (high - low) +1;
+            int randomInt = (int)(Math.random() * range);
+            return randomInt;
+        } else {return 0;}
     }
 
     /*
@@ -264,9 +265,5 @@ class Deck {
     public static Deck mergeSort(Deck deck) {
         return deck;
     }
-
-    double
-    String me;
-    double 123;
 }
 
